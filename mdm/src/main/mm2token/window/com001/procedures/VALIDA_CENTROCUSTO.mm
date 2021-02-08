@@ -1,0 +1,16338 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1610478548651" ID="ID_789441252" MODIFIED="1610488972780" TEXT="valida_centrocusto">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1179618115" MODIFIED="1610478548651" POSITION="right" TEXT="sql_script">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_477039687" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_119185191" MODIFIED="1610478548651" TEXT="procedure_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_121435248" MODIFIED="1610478548651" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1129709931" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_229948586" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1794405306" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_226068214" MODIFIED="1610478548651" TEXT="non_reserved_keywords_pre12c">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_470913476" MODIFIED="1610478548651" TEXT="PROCEDURE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" ID="ID_766273135" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1181422889" MODIFIED="1610478548651" TEXT="procedure_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1983961691" MODIFIED="1610478548651" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_276682864" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1194289611" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_906186024" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1142044930" MODIFIED="1610478548651" TEXT="VALIDA_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" ID="ID_737699575" MODIFIED="1610478548651" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" ID="ID_1190552342" MODIFIED="1610478548651" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1577891905" MODIFIED="1610478548651" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1393782747" MODIFIED="1610478548651" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1253761651" MODIFIED="1610478548651" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_715831717" MODIFIED="1610478548651" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_310424717" MODIFIED="1610478548651" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_9754037" MODIFIED="1610478548651" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_251334740" MODIFIED="1610478548651" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1692127689" MODIFIED="1610478548651" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1543897821" MODIFIED="1610478548651" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_578667605" MODIFIED="1610478548651" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_629310307" MODIFIED="1610478548651" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_977896412" MODIFIED="1610478548651" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_107888083" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" ID="ID_1367909355" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_935631949" MODIFIED="1610478548651" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1142029043" MODIFIED="1610478548651" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_128474847" MODIFIED="1610478548651" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_339538572" MODIFIED="1610478548651" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1400970143" MODIFIED="1610478548651" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1036213205" MODIFIED="1610478548651" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_66974033" MODIFIED="1610478548651" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_760808542" MODIFIED="1610478548651" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_710696918" MODIFIED="1610478548651" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1907635208" MODIFIED="1610478548651" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1085477045" MODIFIED="1610478548651" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1798864651" MODIFIED="1610478548651" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_905949037" MODIFIED="1610478548651" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1181956638" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_266273492" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_360093752" MODIFIED="1610478548651" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1079306766" MODIFIED="1610478548651" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1747010219" MODIFIED="1610478548651" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_836124171" MODIFIED="1610478548651" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1753643308" MODIFIED="1610478548651" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1495940884" MODIFIED="1610478548651" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_743582138" MODIFIED="1610478548651" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1937902415" MODIFIED="1610478548651" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_845475596" MODIFIED="1610478548651" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1028494483" MODIFIED="1610478548651" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1856156820" MODIFIED="1610478548651" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1732007155" MODIFIED="1610478548651" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1664707956" MODIFIED="1610478548651" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1073307003" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_124437656" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_7351519" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_969578854" MODIFIED="1610478548651" TEXT="procedure_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1898230672" MODIFIED="1610478548651" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1358147307" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1402840457" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_718644526" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="OUT">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1188966404" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1282221583" MODIFIED="1610478548651" TEXT="procedure_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_728551171" MODIFIED="1610478548651" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_93658315" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_115442891" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_518746655" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="VARCHAR2">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="&lt;EOF&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_961890001" MODIFIED="1610478548651" POSITION="right" TEXT="sql_script">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_989075785" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1675935188" MODIFIED="1610478548651" TEXT="procedure_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1996886100" MODIFIED="1610478548651" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1563456477" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_595785534" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_227230433" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_738687056" MODIFIED="1610478548651" TEXT="non_reserved_keywords_pre12c">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="DECLARE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="&lt;EOF&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1868395188" MODIFIED="1610478548651" POSITION="right" TEXT="sql_script">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1348792365" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1039458099" MODIFIED="1610478548651" TEXT="procedure_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1763433292" MODIFIED="1610478548651" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1117122270" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_135631046" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1897659289" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1967660825" MODIFIED="1610478548651" TEXT="non_reserved_keywords_pre12c">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="DECLARE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_12333040" MODIFIED="1610478548651" TEXT="unit_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1729762382" MODIFIED="1610478548651" TEXT="anonymous_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1571786874" MODIFIED="1610478548651" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1475027297" MODIFIED="1610478548651" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1545773606" MODIFIED="1610478548651" TEXT="block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="DECLARE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_910405864" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_676306525" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1378595520" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1819839117" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_86616619" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_ST_VALIDACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1691307688" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_338177061" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1743767137" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_925119637" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="PARMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1794945988" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1087452992" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="ST_VALIDACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_505186279" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_656581" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_961403764" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1018786626" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_726328898" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1428030959" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1255167447" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1875575074" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_71622515" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1429510721" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1847560532" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1267756729" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1529536754" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_103935551" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_441720211" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1949392232" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_962445245" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_214990866" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_888925479" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_461594061" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_265582419" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1149634598" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_669722710" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1044706792" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_356636959" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_37590659" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_233490862" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_ST_ATIVO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1346242795" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1157169044" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1180745766" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1083668149" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="RESTRINGIRMOV">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1888793344" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_323640254" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="ST_ATIVO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1433823087" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_937343991" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1798160935" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1976944486" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1144822352" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1151729028" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1665423869" MODIFIED="1610478548651" TEXT="datatype">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1645456357" MODIFIED="1610478548651" TEXT="native_datatype_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="NUMBER">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_888088222" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_673733766" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_422942171" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_364172483" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_134999848" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1012110202" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1358745584" MODIFIED="1610478548651" TEXT="datatype">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_84731359" MODIFIED="1610478548651" TEXT="native_datatype_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="VARCHAR2">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1329830650" MODIFIED="1610478548651" TEXT="precision_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_762416558" MODIFIED="1610478548651" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="2000">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1467371745" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_701282466" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1355315367" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1317983998" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_656987708" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_AUTORICCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_136750287" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_548074590" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1297986626" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_541608691" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_379093001" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_213123435" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_777168856" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1277828033" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_900701031" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_923786992" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_644262251" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_71544263" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_787937570" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1033758442" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1488010150" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1691520435" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_288172347" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1410756700" MODIFIED="1610478548651" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1308990568" MODIFIED="1610478548651" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1041204627" MODIFIED="1610478548651" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_519460262" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_265326518" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_AUTORICCUSTO2">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1797572719" MODIFIED="1610478548651" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_728928114" MODIFIED="1610478548651" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1042990609" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_434643158" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1089658229" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_286636730" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1697844958" MODIFIED="1610478548651" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1071798789" MODIFIED="1610478548651" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_967741199" MODIFIED="1610478548651" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1829321028" MODIFIED="1610478548651" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_145009271" MODIFIED="1610478548651" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1826281181" MODIFIED="1610478548651" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_939066987" MODIFIED="1610478548651" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_500408788" MODIFIED="1610478548651" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_300543175" MODIFIED="1610478548651" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1710977148" MODIFIED="1610478548651" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1921387967" MODIFIED="1610478548651" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1099526537" MODIFIED="1610478548651" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_941644018" MODIFIED="1610478548651" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1624957089" MODIFIED="1610478548651" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_501448011" MODIFIED="1610478548651" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_177541736" MODIFIED="1610478548651" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_251442395" MODIFIED="1610478548651" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_716077077" MODIFIED="1610478548651" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1527583483" MODIFIED="1610478548651" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1378660413" MODIFIED="1610478548651" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1280793618" MODIFIED="1610478548651" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_143679008" MODIFIED="1610478548651" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1909966526" MODIFIED="1610478548651" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1021042069" MODIFIED="1610478548651" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1922573541" MODIFIED="1610478548651" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_799665075" MODIFIED="1610478548651" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_238965926" MODIFIED="1610478548651" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1111058984" MODIFIED="1610478548651" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_711486630" MODIFIED="1610478548651" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_125753221" MODIFIED="1610478548651" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1001013836" MODIFIED="1610478548651" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1522749753" MODIFIED="1610478548651" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1039428700" MODIFIED="1610478548651" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_514768887" MODIFIED="1610478548651" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1959685417" MODIFIED="1610478548651" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" FOLDED="true" ID="ID_1019786352" MODIFIED="1610478548651" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548651" MODIFIED="1610478548651" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_743851904" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1240675122" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_609800336" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1626756310" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_257789375" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1923329196" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_488827636" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1006381520" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_996606219" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1482461623" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_622707062" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_39214570" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_6227525" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_252187995" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="PACK_PARMGEN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1516121176" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_417610725" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CONSULTA_PARAMETRO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1556331786" MODIFIED="1610478548652" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_893057815" MODIFIED="1610478548652" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1776628932" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1654461434" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1664650641" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_906879992" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_446153104" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_654988703" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1693879358" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1224744299" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_199267238" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_969722467" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_987190438" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1683867327" MODIFIED="1610478548652" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="&apos;COM&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_850093399" MODIFIED="1610478548652" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1613146868" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_342192152" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1842945004" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_983083459" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1175450316" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1462013573" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_846779552" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_818274298" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1237725425" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1757819806" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_198549089" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_906140228" MODIFIED="1610478548652" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="9">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_67831978" MODIFIED="1610478548652" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1994800918" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1224215116" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1030284593" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1165326122" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1928405697" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_896635532" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_705834026" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_621312248" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1693876719" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1455938232" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_593282550" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1658041501" MODIFIED="1610478548652" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="&apos;MAX&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_61950031" MODIFIED="1610478548652" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1410837534" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1183664881" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1720197768" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1596494327" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1422143515" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_753399548" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1937397692" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_895393112" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_308126997" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_249961438" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1502655130" MODIFIED="1610478548652" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1051961013" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_234711561" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_978140064" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1600873485" MODIFIED="1610478548652" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1612927995" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1748369489" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_419813547" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_657091190" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_176126183" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_621050960" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1747400295" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_706659889" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_15671162" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_395297389" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_125066220" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1671132320" MODIFIED="1610478548652" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="&apos;ST_CC_USUARIO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1150542684" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_776790286" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1874620594" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_5791302" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1027600831" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_173770233" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_452340105" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1959042474" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_386657317" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_149997821" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_918746424" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1402666659" MODIFIED="1610478548652" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_613196191" MODIFIED="1610478548652" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_934455312" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1216578251" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_934593380" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_444453188" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1416070378" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_61562843" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_492283327" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_483010544" MODIFIED="1610478548652" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="&apos;S&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_170624509" MODIFIED="1610478548652" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_672691859" MODIFIED="1610478548652" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_311554033" MODIFIED="1610478548652" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1145065785" MODIFIED="1610478548652" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_945433458" MODIFIED="1610478548652" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_577228062" MODIFIED="1610478548652" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_4219927" MODIFIED="1610478548652" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_705197343" MODIFIED="1610478548652" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_846156693" MODIFIED="1610478548652" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_362684847" MODIFIED="1610478548652" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1816848291" MODIFIED="1610478548652" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1914729688" MODIFIED="1610478548652" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_991086997" MODIFIED="1610478548652" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_973335104" MODIFIED="1610478548652" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_66368941" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_797030555" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_118748845" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_336627540" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1806076186" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_405808360" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_416012164" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1873563535" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_501221607" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_551136497" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1473008390" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1303134847" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_982459495" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1783184224" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_670916192" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1512042117" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1594393351" MODIFIED="1610478548652" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_408479801" MODIFIED="1610478548652" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1110219455" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_81126446" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="V_CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_489282853" MODIFIED="1610478548652" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_132229824" MODIFIED="1610478548652" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_420799037" MODIFIED="1610478548652" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1452920484" MODIFIED="1610478548652" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1543458316" MODIFIED="1610478548652" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_528671106" MODIFIED="1610478548652" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_524072769" MODIFIED="1610478548652" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_981973238" MODIFIED="1610478548652" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_573574367" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_904051179" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1829511190" MODIFIED="1610478548652" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_286759104" MODIFIED="1610478548652" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1994455433" MODIFIED="1610478548652" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_697457859" MODIFIED="1610478548652" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1943372630" MODIFIED="1610478548652" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1280622477" MODIFIED="1610478548652" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1004586740" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1382043395" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_191420537" MODIFIED="1610478548652" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1210318975" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_263174288" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_681883085" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1119268785" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_489979410" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1481264576" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_346073234" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_107530102" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_774058697" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1872657112" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1561595966" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_995316561" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1346326354" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1684245371" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1567646360" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1026155132" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_381738620" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_482173484" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1194042502" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1087937223" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1164593836" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_514861599" MODIFIED="1610478548652" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_864969775" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1479872336" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1901050666" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_864585282" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1036075641" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_103950729" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1243251207" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_180131266" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1968436971" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_957668270" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1142236510" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1711886243" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1150922289" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1279311546" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_20914083" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_277012995" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1824814489" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_898369407" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_130210744" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_624707874" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1251628918" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_407859833" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_281678964" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1363160252" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1977284922" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1214047817" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1920097944" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_189627810" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1728752009" MODIFIED="1610478548652" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_407218162" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_205318738" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1807255208" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1734316071" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_934859818" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1238069998" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_912120241" MODIFIED="1610478548652" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=":GLOBAL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_398451455" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1836556413" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_394112603" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1976027595" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_713821667" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1769116693" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1272395545" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_530495332" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_876260749" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1761379021" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_650052179" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1936827268" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1661089029" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_577740671" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_38882476" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_89547169" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1260455173" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1303848175" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1424044117" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_875158885" MODIFIED="1610478548652" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_977573975" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1088494441" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_34500623" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1202185772" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_400646106" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_56552765" MODIFIED="1610478548652" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_386336416" MODIFIED="1610478548652" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1470194949" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1657766666" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_349880314" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1044288110" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1113140837" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1712004540" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1191596308" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1968415666" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_924549087" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1798286857" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1436776387" MODIFIED="1610478548652" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_861363095" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1679797779" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1995461388" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_EMPRCCUSTODEST">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1276434275" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_444908948" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_559890854" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_833167928" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_915791341" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1251720371" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1228906726" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_548326792" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_834453441" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_706073954" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1410336921" MODIFIED="1610478548652" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1774227699" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_6450992" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_218871842" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_911963421" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1041259126" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1352136971" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1975280048" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_954830433" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_940560835" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_648346209" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1270939678" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1202794729" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1951277952" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_869680960" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1682465715" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_193457034" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_158589380" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_871415547" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1492908692" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_736581931" MODIFIED="1610478548652" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1845762739" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_851384494" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1911179183" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1556867309" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1788662417" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_739575041" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1326067527" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1932997608" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_985314820" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_802811105" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1917737848" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_909659493" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1310965571" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1763686244" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_5691075" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_516044170" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1838948441" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1693644022" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1117997300" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1412284911" MODIFIED="1610478548652" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1318877598" MODIFIED="1610478548652" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_324470893" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1490223774" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_379487090" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1000224058" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_41457576" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_477227813" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_360864169" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_60598193" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_157067000" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_854995254" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1365860614" MODIFIED="1610478548652" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_490037014" MODIFIED="1610478548652" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_652631079" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_842113076" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_860452201" MODIFIED="1610478548652" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1922577278" MODIFIED="1610478548652" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="ST_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_216941759" MODIFIED="1610478548652" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_903082287" MODIFIED="1610478548652" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_906823831" MODIFIED="1610478548652" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_334825380" MODIFIED="1610478548652" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1776351477" MODIFIED="1610478548652" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_283326329" MODIFIED="1610478548652" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1869690185" MODIFIED="1610478548652" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_834962995" MODIFIED="1610478548652" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_973505446" MODIFIED="1610478548652" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1838071162" MODIFIED="1610478548652" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_1322468776" MODIFIED="1610478548652" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" FOLDED="true" ID="ID_534459742" MODIFIED="1610478548652" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548652" MODIFIED="1610478548652" TEXT="&apos;A&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_752238772" MODIFIED="1610478548653" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1731094177" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1081499798" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1328749928" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1154192271" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1906784290" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1484535537" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1743419609" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1308503407" MODIFIED="1610478548653" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="&apos;A&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1107532441" MODIFIED="1610478548653" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_446820931" MODIFIED="1610478548653" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1217543405" MODIFIED="1610478548653" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_108554207" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1852156770" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="NO_DATA_FOUND">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1793262830" MODIFIED="1610478548653" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1709067787" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_223041213" MODIFIED="1610478548653" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_834835086" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1025748181" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1933079763" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_201702676" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1612971711" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_353132011" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1829539591" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_666859645" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_116824349" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_421819347" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1072009548" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1318690227" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_129418710" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1017951986" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1743345748" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1762490000" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_203214460" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1525645484" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1403940631" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_945828433" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1695842646" MODIFIED="1610478548653" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1938236767" MODIFIED="1610478548653" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1178023385" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1996164687" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1513035705" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1954982753" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1439430904" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_699847904" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1526728527" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1593066216" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_824842694" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1345594144" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_578510321" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1904372719" MODIFIED="1610478548653" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="3771">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_141271499" MODIFIED="1610478548653" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_807999281" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1129083453" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_521106433" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_347094723" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_997735699" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_632751762" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_286047999" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_172214951" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_609735656" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1646750628" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1692232833" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1630584294" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1545391179" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_104237282" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_496614482" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_781894527" MODIFIED="1610478548653" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="&apos;&#xa2;CD_USUARIO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1650967607" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1467757166" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_498977181" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_54414166" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_896417357" MODIFIED="1610478548653" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=":GLOBAL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_175998052" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_481992482" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1028125589" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_740994885" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_278625911" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_824913232" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1136203502" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1887181140" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1536992376" MODIFIED="1610478548653" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1704387366" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1058000012" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_613236734" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_892295591" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_498439542" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_128393239" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1918038020" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1498335643" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1735999333" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1729418719" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_130058350" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_217823277" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_60803909" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1179139315" MODIFIED="1610478548653" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1915313721" MODIFIED="1610478548653" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_330649038" MODIFIED="1610478548653" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1443190851" MODIFIED="1610478548653" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1456441539" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1004337699" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="TOO_MANY_ROWS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_951940620" MODIFIED="1610478548653" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1884758570" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_974719244" MODIFIED="1610478548653" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_506711155" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_715184033" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1726825763" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_38674954" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1832379780" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_564003342" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_252923627" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1106959557" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_743061497" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_422911689" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_918011871" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_157646423" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_155967270" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_383439001" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1426640755" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1174645963" MODIFIED="1610478548653" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1584886792" MODIFIED="1610478548653" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1821484099" MODIFIED="1610478548653" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1147527192" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_596774806" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="OTHERS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_6161500" MODIFIED="1610478548653" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_402661073" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_285914628" MODIFIED="1610478548653" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1958897313" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1165548967" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1884279942" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_377790263" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1283009208" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_240041158" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1904181099" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_427101440" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_609760660" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_305239729" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1506832561" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_632528168" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1900440231" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_657343404" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1325245562" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_595034798" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_568136800" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1599953000" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_672643279" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1372089672" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1506408028" MODIFIED="1610478548653" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1493367410" MODIFIED="1610478548653" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_189798818" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1788500237" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_632625667" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1082100692" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_933548453" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1189492923" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_153195215" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_643265761" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1642393780" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1079136424" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_723907576" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1411865855" MODIFIED="1610478548653" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="3958">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1623487283" MODIFIED="1610478548653" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1389692914" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1665418042" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1353514827" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_532184592" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1250515370" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_650487453" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1206586583" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_770920626" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1640516409" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1927413460" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_515451961" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1344429168" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_961988355" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1662531412" MODIFIED="1610478548653" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="&apos;&#xa2;SQLERRM=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1513123887" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_593224836" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1706231300" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_317567088" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1896589067" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_886701355" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1953715392" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1735603797" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="SQLERRM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_805124053" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_258484821" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_890630013" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_323142783" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_22601240" MODIFIED="1610478548653" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_480942561" MODIFIED="1610478548653" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1002816679" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1354492737" MODIFIED="1610478548653" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1111016088" MODIFIED="1610478548653" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1100219379" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_511215709" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1103985725" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_535181940" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_549524451" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1077867976" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_54255630" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_46821962" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_85562900" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_259966171" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1326979658" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_780290604" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1433394577" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_87784839" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1692085091" MODIFIED="1610478548653" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_112544722" MODIFIED="1610478548653" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_847015632" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_842837083" MODIFIED="1610478548653" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1859464566" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1126452697" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1171784268" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1717888329" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1817610055" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1295257613" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1427731509" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_296701013" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1698927801" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1744149316" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1693830335" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_861258406" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1631353902" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_847909991" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1398387912" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_915873756" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1313776848" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_242737698" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1824221243" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_996116072" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_139278826" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1716082382" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1421591752" MODIFIED="1610478548653" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1856750466" MODIFIED="1610478548653" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_229099798" MODIFIED="1610478548653" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1766457004" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1978780263" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_384370889" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_695278354" MODIFIED="1610478548653" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_384330600" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1206221436" MODIFIED="1610478548653" TEXT="block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="DECLARE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1726996613" MODIFIED="1610478548653" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_741187099" MODIFIED="1610478548653" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1018689321" MODIFIED="1610478548653" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_268019628" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_809098556" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="V_ST_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1939340890" MODIFIED="1610478548653" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_193360096" MODIFIED="1610478548653" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1344713826" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1199406640" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_462485417" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1400758502" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="ST_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="%TYPE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_568410744" MODIFIED="1610478548653" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_127890694" MODIFIED="1610478548653" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1566258227" MODIFIED="1610478548653" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1074212827" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_360232605" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="E_GERAL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1364420664" MODIFIED="1610478548653" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_45273101" MODIFIED="1610478548653" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1208286976" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_998405108" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1885777593" MODIFIED="1610478548653" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_904902507" MODIFIED="1610478548653" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_395532225" MODIFIED="1610478548653" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_94681354" MODIFIED="1610478548653" TEXT="function_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1269455271" MODIFIED="1610478548653" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_52123314" MODIFIED="1610478548653" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_70401097" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_732908036" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="PACK_VALIDA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1857625049" MODIFIED="1610478548653" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1641170318" MODIFIED="1610478548653" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="VAL_CCUSTOEMPR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_762708596" MODIFIED="1610478548653" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" MODIFIED="1610478548653" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1516409311" MODIFIED="1610478548653" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_534223831" MODIFIED="1610478548653" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1358143714" MODIFIED="1610478548653" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1369090431" MODIFIED="1610478548653" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_841669716" MODIFIED="1610478548653" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1722387849" MODIFIED="1610478548653" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_139255584" MODIFIED="1610478548653" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1231786140" MODIFIED="1610478548653" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_567267676" MODIFIED="1610478548653" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548653" FOLDED="true" ID="ID_1792096415" MODIFIED="1610478548653" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_604343701" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_884460013" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_521968999" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_811257411" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1293193595" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_513719748" MODIFIED="1610478548654" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_369538293" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_172488042" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1040496599" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_91417183" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_779085786" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_205212155" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1980402630" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_938930768" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_760728382" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_123486956" MODIFIED="1610478548654" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1477650808" MODIFIED="1610478548654" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_722629317" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_878339079" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1857646815" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1987798530" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_27362939" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1289885006" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_204780242" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1797317001" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_308695766" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1457610819" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1512918049" MODIFIED="1610478548654" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1055735144" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_228305959" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_895835722" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CD_EMPRCCUSTODEST">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_101657531" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1282931535" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1331035711" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1191488873" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_318125063" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1111439429" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_158419758" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1651446863" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1286346803" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1106777862" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_442804781" MODIFIED="1610478548654" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_851761783" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_578546766" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1761572392" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1925388558" MODIFIED="1610478548654" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1865364445" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_601153898" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1219501121" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1071132051" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_822112649" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_641150604" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_421319007" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1701238565" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_517514585" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1364799822" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1626957657" MODIFIED="1610478548654" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":GLOBAL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1716867340" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1729981496" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_848812975" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CD_MODULO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_792607255" MODIFIED="1610478548654" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_380873171" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_882719299" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_768108143" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1266524105" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_293915838" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_115216045" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_933170573" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1909242709" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_884820591" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1700753578" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1326992438" MODIFIED="1610478548654" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":GLOBAL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_452081566" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_46006888" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1116708632" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CD_PROGRAMA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1848178585" MODIFIED="1610478548654" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_367297113" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1846362041" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_542943359" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1307950094" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_389023806" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1443311363" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1935349493" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_728770098" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1034439999" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1437602695" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1904246873" MODIFIED="1610478548654" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_435965062" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1580185991" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_795897854" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_142243132" MODIFIED="1610478548654" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1526173187" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1642688604" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1840456873" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1492820195" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_649166429" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1467460931" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1134846921" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1270173576" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_513813795" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_997560212" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1454558260" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1685848323" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_995546369" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_426545740" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_72804606" MODIFIED="1610478548654" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_126382625" MODIFIED="1610478548654" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_151144450" MODIFIED="1610478548654" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1459832927" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1390311057" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_282086412" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1743923157" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1905228114" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1415943847" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_433756385" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1511656413" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1116185687" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_416386589" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_260589950" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_738005919" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1724753660" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1961827585" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_439574844" MODIFIED="1610478548654" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_587894124" MODIFIED="1610478548654" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1614626516" MODIFIED="1610478548654" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_431021332" MODIFIED="1610478548654" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1556971011" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_306331832" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_836202814" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1900475689" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_750590831" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_707559830" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1756075513" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1030996398" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1115765949" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_279281415" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1848867325" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_463376846" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1547767677" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_459739626" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_84917937" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1396782025" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1806375237" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_33542671" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1972957646" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_39102399" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1692163603" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1488969216" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1724097473" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_719960541" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_424224515" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_625653182" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1311629414" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1386154013" MODIFIED="1610478548654" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1106528879" MODIFIED="1610478548654" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_343786779" MODIFIED="1610478548654" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_312983295" MODIFIED="1610478548654" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1261582745" MODIFIED="1610478548654" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_293393561" MODIFIED="1610478548654" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1740220356" MODIFIED="1610478548654" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_593716131" MODIFIED="1610478548654" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_619863442" MODIFIED="1610478548654" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1477873449" MODIFIED="1610478548654" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_917870177" MODIFIED="1610478548654" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1605919868" MODIFIED="1610478548654" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_699291385" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_496944716" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_840641735" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1233135025" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_75038218" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_781418084" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1550750842" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_900688248" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_878821733" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_821785654" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_207896374" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_273493959" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1206271813" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_574329866" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="ST_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1406380164" MODIFIED="1610478548654" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_594034960" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1121591575" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1374599142" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1286583009" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_430385405" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1985218571" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_842247660" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_615349400" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_901002099" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1482836343" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1099478916" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1609198897" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1479782814" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1520398920" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1175141976" MODIFIED="1610478548654" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_320643486" MODIFIED="1610478548654" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_704495653" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1816633292" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_ST_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1731449011" MODIFIED="1610478548654" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1845213286" MODIFIED="1610478548654" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_865190500" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1734296187" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_455492837" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_391959943" MODIFIED="1610478548654" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_54746459" MODIFIED="1610478548654" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1876023823" MODIFIED="1610478548654" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_866270296" MODIFIED="1610478548654" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1610448947" MODIFIED="1610478548654" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1230442423" MODIFIED="1610478548654" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1935327388" MODIFIED="1610478548654" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_346237038" MODIFIED="1610478548654" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_234310285" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1522913605" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1191101522" MODIFIED="1610478548654" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_113575750" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1015399539" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_225881597" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_895622759" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1033944113" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_394042300" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1388688549" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_972170427" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1656077625" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_518426150" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1257277513" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1987265996" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_727192234" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1139606919" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1463880515" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_259039561" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1622158721" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1526747091" MODIFIED="1610478548654" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1508574424" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1834951910" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1028175517" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_73292637" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_832970228" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_39456842" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_156847" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1514617093" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_67863078" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1756850471" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_716769145" MODIFIED="1610478548654" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_12974944" MODIFIED="1610478548654" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_807887908" MODIFIED="1610478548654" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_667784646" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1054827761" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_226404506" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1816666004" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_432105732" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_390507947" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_816096080" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_538020322" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1736611041" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1552993146" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1070857592" MODIFIED="1610478548654" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1238501282" MODIFIED="1610478548654" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_649628861" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_117505367" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_877582183" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_320574461" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1288664997" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_763816010" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1651081230" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1261117943" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1060391858" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_114805839" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_914612620" MODIFIED="1610478548654" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1420800283" MODIFIED="1610478548654" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1610223883" MODIFIED="1610478548654" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1480127613" MODIFIED="1610478548654" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="V_ST_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1973782936" MODIFIED="1610478548654" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_344187007" MODIFIED="1610478548654" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1533114155" MODIFIED="1610478548654" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1886663956" MODIFIED="1610478548654" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1714538480" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1885163766" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_208935287" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_191178353" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_722782299" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_256168000" MODIFIED="1610478548654" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1304741652" MODIFIED="1610478548654" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_253895876" MODIFIED="1610478548654" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="&apos;A&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_676319736" MODIFIED="1610478548654" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" MODIFIED="1610478548654" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_769558610" MODIFIED="1610478548654" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1467968769" MODIFIED="1610478548654" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_232248424" MODIFIED="1610478548654" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_562255258" MODIFIED="1610478548654" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548654" FOLDED="true" ID="ID_1535033763" MODIFIED="1610478548654" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_988713767" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1286979577" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_822275292" MODIFIED="1610478548655" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="&apos;I&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_471632354" MODIFIED="1610478548655" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_906177486" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1227194754" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1842792341" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_200503479" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_391665540" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1566255214" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_255556994" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_125693504" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1888765083" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1497233547" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1851988770" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1669085866" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_336355273" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_451973167" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_197717884" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_743898112" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_102449584" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1165905370" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_719076139" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1890209381" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1764578149" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1256497869" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_126356578" MODIFIED="1610478548655" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1801951165" MODIFIED="1610478548655" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_905676694" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1312771885" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_325900376" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1794295204" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_277898811" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_821597139" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1544487968" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1753201800" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1495678260" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1592815189" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1528469091" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1871263351" MODIFIED="1610478548655" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="1509">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_559324256" MODIFIED="1610478548655" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1451481028" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1668973686" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1325952992" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_840722747" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1932686170" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1632063922" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1240113883" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_292632494" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1927590939" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1907078410" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1825884429" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_27599388" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_368629863" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_628808911" MODIFIED="1610478548655" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1927628198" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1864844284" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_430995808" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_640546783" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1733632709" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1717052947" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1432291186" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_231150466" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_631759265" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_576131997" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1722512107" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1699989966" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_88173378" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_226430102" MODIFIED="1610478548655" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_871622542" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_176850671" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_967758710" MODIFIED="1610478548655" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_369631343" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1273964420" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_154694202" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1694766086" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_346247397" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_519028927" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1626694078" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_950890682" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_411183380" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_237882142" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_59437755" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1353762643" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1653044842" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_376654035" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1627442402" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_132776515" MODIFIED="1610478548655" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1055736147" MODIFIED="1610478548655" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1974714079" MODIFIED="1610478548655" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1786447814" MODIFIED="1610478548655" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_322074144" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_103418771" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="E_GERAL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_258284811" MODIFIED="1610478548655" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1907879562" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_96911981" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1328053692" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1890807012" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1897975186" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_385087367" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_447471266" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1415802002" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_406903678" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1013376725" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1342977274" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1662755206" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_532646098" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_713963489" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1139710903" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1952500575" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_330805774" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1368505858" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_614496515" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_842474355" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1156797004" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_638575896" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_682540095" MODIFIED="1610478548655" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_942900866" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1278812478" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_380437868" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1754769045" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_391445887" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_118241063" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1752558661" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_194932591" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1659137904" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_850494275" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1323680804" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_566533495" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1492224084" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_2782547" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_843662518" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_709270738" MODIFIED="1610478548655" TEXT="raise_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="RAISE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_576194583" MODIFIED="1610478548655" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1651658420" MODIFIED="1610478548655" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_976659385" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_14855118" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="FORM_TRIGGER_FAILURE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1269173107" MODIFIED="1610478548655" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1607645524" MODIFIED="1610478548655" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1383568907" MODIFIED="1610478548655" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_967867615" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1410377337" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="NO_DATA_FOUND">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_674929985" MODIFIED="1610478548655" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_116803410" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_999144121" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_887186459" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1912483017" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1851084394" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_913690932" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_865989407" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1560930777" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_291115903" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1547400204" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_680765380" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1891616723" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1710537860" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_273953319" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1824767938" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1444738345" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_774008898" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_282236233" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_410764605" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1805584966" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_246305860" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_636937266" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_862998259" MODIFIED="1610478548655" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1826335159" MODIFIED="1610478548655" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1303445141" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1814499412" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1951611629" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_755302278" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_581067864" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_687691440" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_957827773" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_574227995" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1378254671" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1534383149" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_965314569" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1555221388" MODIFIED="1610478548655" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="254">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_567074879" MODIFIED="1610478548655" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_711580452" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_679815343" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_293157251" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_393504105" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1944192629" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1621506541" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_445219826" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_588594767" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_974457903" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1893039656" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1489322934" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_457788951" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_882552273" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1893084776" MODIFIED="1610478548655" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_96228338" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_40147185" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_148531691" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1840535401" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_497083981" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_754132039" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1010725883" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_492915977" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1808559096" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1023766668" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_241110349" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1655893873" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1729973371" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_73030894" MODIFIED="1610478548655" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_124053566" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_389573269" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1081330730" MODIFIED="1610478548655" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1904295905" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_301586645" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_368318842" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_197580831" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1032204377" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1200418328" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_508721390" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_599978649" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_156373945" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1626819376" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1873615548" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1729220317" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1243048786" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1056222212" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1407982023" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1488330181" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_681600484" MODIFIED="1610478548655" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1738638777" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_264055897" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_73174974" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1583505143" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_814751028" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_961171812" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_527257494" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1296554249" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1372129051" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_293090371" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_322685703" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_675370790" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1022868149" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_293140182" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_134984674" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_659298885" MODIFIED="1610478548655" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1692404056" MODIFIED="1610478548655" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_41046411" MODIFIED="1610478548655" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1428013521" MODIFIED="1610478548655" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_320798591" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_461568173" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="OTHERS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_870304996" MODIFIED="1610478548655" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_373649459" MODIFIED="1610478548655" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_720371543" MODIFIED="1610478548655" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_876463473" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_167728764" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1751311671" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1926692654" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_997561312" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1717265334" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_203806952" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_809849722" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_365076549" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1868536640" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1184256979" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_702907458" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1399319385" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_81548393" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1314635132" MODIFIED="1610478548655" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_809732808" MODIFIED="1610478548655" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1768376594" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_806675659" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_108200530" MODIFIED="1610478548655" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_210568121" MODIFIED="1610478548655" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_507359634" MODIFIED="1610478548655" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1972038596" MODIFIED="1610478548655" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_15235927" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1746158031" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1707486071" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1570666969" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1016748774" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1772696730" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_219823182" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_626578914" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1748236306" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1667187079" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_481736960" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_543326896" MODIFIED="1610478548655" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="999">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_994968946" MODIFIED="1610478548655" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1645478835" MODIFIED="1610478548655" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1513774884" MODIFIED="1610478548655" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1886823258" MODIFIED="1610478548655" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_147637654" MODIFIED="1610478548655" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_573705340" MODIFIED="1610478548655" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_390277819" MODIFIED="1610478548655" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_49026342" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_871076224" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1269699197" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1979922301" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_88905936" MODIFIED="1610478548655" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1798449752" MODIFIED="1610478548655" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_631681066" MODIFIED="1610478548655" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1192447789" MODIFIED="1610478548655" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_1464766751" MODIFIED="1610478548655" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" FOLDED="true" ID="ID_437192217" MODIFIED="1610478548655" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548655" MODIFIED="1610478548655" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_764109023" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1615551091" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1160631003" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1502584536" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_252504673" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1707881586" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_632013796" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_284001487" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1842333046" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1905730798" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1022749418" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_658571403" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_2534088" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_501438673" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;&#xa2;SQLERREM=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1564705712" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1471420105" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1810533573" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1226833271" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1495078671" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1414781220" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_6726708" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1490852463" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="SQLERRM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1627553932" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_621468048" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_342843753" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_413948842" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1982973597" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1494756197" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_885748314" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_985217778" MODIFIED="1610478548656" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1691965965" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1362134328" MODIFIED="1610478548656" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1887668121" MODIFIED="1610478548656" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1589462123" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1508772910" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1163382284" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1931513703" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_473779782" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_467823147" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1970657674" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_109809926" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1643331881" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_925642767" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_714551514" MODIFIED="1610478548656" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_487570968" MODIFIED="1610478548656" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1369728071" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1949327377" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_872079632" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1609918483" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1677418731" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_640980084" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1422557139" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1898337847" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1391469816" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1157206843" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1237858448" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_881388527" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_753089807" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1670218659" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="PACK_PARMGEN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1009631329" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_158645189" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CONSULTA_PARAMETRO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_534095010" MODIFIED="1610478548656" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1008669223" MODIFIED="1610478548656" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1414478841" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1341796876" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_864352176" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_677883351" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_92625214" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1076354052" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_19006365" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_950990054" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1913341849" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1008766445" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1234873360" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1399104717" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;COM&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_312976790" MODIFIED="1610478548656" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1587723067" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1836306099" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1803767181" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1287352272" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1899274626" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1819247578" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1267532223" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1345864236" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_944616278" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1131529678" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1373233600" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_434819575" MODIFIED="1610478548656" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="9">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_302595029" MODIFIED="1610478548656" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1847989869" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1366897022" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1231413449" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_46567279" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1074827790" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_58756198" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1703624498" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1948931322" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1881522385" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_342641750" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_679923373" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_288969118" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;MAX&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1314214429" MODIFIED="1610478548656" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_548207779" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_176303304" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1474007339" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_75516511" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1964036464" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_249094818" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1748072400" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_741968226" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1472971617" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1288687765" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1671045430" MODIFIED="1610478548656" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1369048848" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_143543404" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1924196428" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1330456689" MODIFIED="1610478548656" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_638858561" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1073479397" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_281567908" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1570104544" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1238914713" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1109989514" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_703905440" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_15641932" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_940054718" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1998533835" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1456514951" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_487823482" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;ST_NAOBRIGAUTORIZ&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_588341421" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1471769705" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1945336504" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_668558761" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1468948490" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_687218769" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_497150650" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1356613120" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1975126634" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1675567800" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_235064481" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1350316440" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_106737672" MODIFIED="1610478548656" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_102099326" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_843379192" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1650754181" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1889917165" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_614606783" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1853887282" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_353320890" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1471622412" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_773222632" MODIFIED="1610478548656" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1831151515" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_543804955" MODIFIED="1610478548656" TEXT="block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="DECLARE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1236423334" MODIFIED="1610478548656" TEXT="declare_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1660997730" MODIFIED="1610478548656" TEXT="variable_declaration">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1934856010" MODIFIED="1610478548656" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1878028342" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1032473741" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="E_GERAL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_455837861" MODIFIED="1610478548656" TEXT="type_spec">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_589240414" MODIFIED="1610478548656" TEXT="type_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1341985278" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_326284692" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1456128116" MODIFIED="1610478548656" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1280556150" MODIFIED="1610478548656" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_92322553" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_361362964" MODIFIED="1610478548656" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_108296889" MODIFIED="1610478548656" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_482620759" MODIFIED="1610478548656" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1468282122" MODIFIED="1610478548656" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1115222901" MODIFIED="1610478548656" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_323928335" MODIFIED="1610478548656" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1756457135" MODIFIED="1610478548656" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_903604261" MODIFIED="1610478548656" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1997472671" MODIFIED="1610478548656" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1537681766" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_298289465" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1012798381" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1015247992" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_377857758" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_949777542" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1953113735" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_549598219" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_648636876" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1318403548" MODIFIED="1610478548656" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1954107487" MODIFIED="1610478548656" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_699935911" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1809026904" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_993459857" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_399684371" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_302417118" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_318364147" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_581307447" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_751909366" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_480371313" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1608407326" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_487651705" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_754339610" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1702759351" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1081556840" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="ST_VALIDACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_942199527" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1087083019" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_671006555" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_426814567" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1927930324" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_234237158" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_26247299" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_824878027" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_246481810" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1773821619" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1785775749" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1704595652" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1460150408" MODIFIED="1610478548656" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1751512433" MODIFIED="1610478548656" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_457187309" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_642758277" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="V_ST_VALIDACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_96635262" MODIFIED="1610478548656" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_175214838" MODIFIED="1610478548656" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1589220490" MODIFIED="1610478548656" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_26010137" MODIFIED="1610478548656" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1406038685" MODIFIED="1610478548656" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1804891644" MODIFIED="1610478548656" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_737172774" MODIFIED="1610478548656" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_313157820" MODIFIED="1610478548656" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1879705659" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_820393617" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="PARMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1140360007" MODIFIED="1610478548656" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1781486932" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1587641512" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1927724414" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_792431159" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1037281851" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_131325637" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_976920717" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1813207497" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_147578281" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_790444647" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_860791844" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1332355473" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_697997466" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_197005471" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_585201317" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_148819924" MODIFIED="1610478548656" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_91424859" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1021024965" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_455625" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_517287330" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1876967296" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_236689801" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1667748849" MODIFIED="1610478548656" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_633919780" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1746186007" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1794751187" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_411135259" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1101202398" MODIFIED="1610478548656" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1519020449" MODIFIED="1610478548656" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_554931634" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_408088716" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_233245915" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1044806773" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1107820905" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1479785222" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1362489315" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_567630315" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_46674742" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1999861805" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_674996609" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1039770115" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_244204940" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_685928908" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_388241049" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="V_ST_VALIDACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1017838581" MODIFIED="1610478548656" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_717832547" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_504671613" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_846335860" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1247767200" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1325135282" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1178528572" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_332872763" MODIFIED="1610478548656" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1157326629" MODIFIED="1610478548656" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="&apos;C&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1102620087" MODIFIED="1610478548656" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1152721458" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_56093234" MODIFIED="1610478548656" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1759965317" MODIFIED="1610478548656" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_736410885" MODIFIED="1610478548656" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1685021967" MODIFIED="1610478548656" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1370738439" MODIFIED="1610478548656" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_824494002" MODIFIED="1610478548656" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_992145137" MODIFIED="1610478548656" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1553662450" MODIFIED="1610478548656" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_518526748" MODIFIED="1610478548656" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1548695739" MODIFIED="1610478548656" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_808510001" MODIFIED="1610478548656" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_728403339" MODIFIED="1610478548656" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1700923840" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1221461561" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1660334395" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1678971919" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_71805861" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1980644851" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_536796797" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1679834202" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1376307284" MODIFIED="1610478548656" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1849651659" MODIFIED="1610478548656" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1871627698" MODIFIED="1610478548656" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1694827050" MODIFIED="1610478548656" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1379925735" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1766894722" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1470454948" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_674723255" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_205280337" MODIFIED="1610478548656" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1624905480" MODIFIED="1610478548656" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_64993601" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1148637543" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="V_CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_622135156" MODIFIED="1610478548656" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_824493331" MODIFIED="1610478548656" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_273944695" MODIFIED="1610478548656" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1228265171" MODIFIED="1610478548656" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_392970092" MODIFIED="1610478548656" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_855860584" MODIFIED="1610478548656" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1369747400" MODIFIED="1610478548656" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_570415440" MODIFIED="1610478548656" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1560609748" MODIFIED="1610478548656" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_127004040" MODIFIED="1610478548656" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_746943926" MODIFIED="1610478548656" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" MODIFIED="1610478548656" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1970840097" MODIFIED="1610478548656" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1757001691" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_567445619" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1802284216" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_61303962" MODIFIED="1610478548656" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1045194515" MODIFIED="1610478548656" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_201002086" MODIFIED="1610478548656" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1799266298" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1614253027" MODIFIED="1610478548656" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_693002936" MODIFIED="1610478548656" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_36854789" MODIFIED="1610478548656" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548656" FOLDED="true" ID="ID_1668447953" MODIFIED="1610478548656" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_744998879" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1970350545" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1040468763" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1233361670" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_872334636" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_395654929" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1537593256" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1464815238" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_USUARIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_879619221" MODIFIED="1610478548657" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1893019290" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_518841158" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1073598078" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_335832828" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1451742418" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1139793575" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1943910459" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":CONTROLE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1796247058" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_471571081" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_483320158" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_52346573" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1263427031" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1700063843" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1687965607" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_216062812" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_958588768" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1069748111" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1368576279" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_677968362" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_206025112" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_298369242" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1937472226" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1302929694" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1425571538" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1496305249" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1152359613" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1250699992" MODIFIED="1610478548657" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_463822480" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1904038303" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1627663660" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_694032874" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1183515412" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1825818106" MODIFIED="1610478548657" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1182422824" MODIFIED="1610478548657" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_169954894" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1128156885" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1608862308" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_804117139" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_426559605" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1132253521" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1789734012" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1889871863" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1451210354" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_883162341" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1824579514" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1667324789" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1874196062" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_565099991" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_EMPRCCUSTODEST">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1753732798" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_783549434" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1501391629" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_747175873" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1119376557" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1839152853" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_628689764" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_449210428" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1677281668" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_417468063" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_45881272" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1667313262" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1014280904" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_978139064" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_287516729" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_727059514" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_801397223" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_643875549" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_786702017" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1195044527" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1966969477" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1763164885" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1359371736" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1226634358" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_262559065" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1719583991" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1693059465" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1690443389" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1964182671" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_394164523" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1903804495" MODIFIED="1610478548657" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_144940342" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1318688829" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_326959946" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1882008452" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_812704872" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1160053618" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_517542109" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_558304426" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1200384282" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1125260784" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1669492132" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1875409514" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_624756378" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1088176439" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1584121886" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_167211054" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1529714505" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_650928635" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_601254067" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1464420990" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1197529904" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1407410934" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1665415602" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CCUSTOAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1919366102" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_723476143" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="TP_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="IN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_498967698" MODIFIED="1610478548657" TEXT="in_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_766093884" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1978320734" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1809191080" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_764061633" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_507286364" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_498763439" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos;A&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1200529421" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1815227989" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1062595932" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1036110600" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1014813820" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1348621537" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos;S&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1368248765" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_900540438" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_897145927" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1074037850" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_422574425" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_928948441" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos;T&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_288173326" MODIFIED="1610478548657" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1530049578" MODIFIED="1610478548657" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_273465032" MODIFIED="1610478548657" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_569291166" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1392058221" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="NO_DATA_FOUND">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1685038612" MODIFIED="1610478548657" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_990500980" MODIFIED="1610478548657" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_950866006" MODIFIED="1610478548657" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_725415654" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1972344815" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_623892" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_544523079" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_631066404" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1920863727" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1343109150" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_688353951" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1735526308" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1566489316" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_784904460" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1936935410" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_824641952" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_935949565" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_974310380" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1148017404" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_907329864" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1539102942" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1618356644" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1460105619" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1762780620" MODIFIED="1610478548657" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_297881262" MODIFIED="1610478548657" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1932930223" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1281793553" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1678244744" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1035656503" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_996525428" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_183556040" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_996886630" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1299943435" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1609602520" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1990693643" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_386481437" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1766830303" MODIFIED="1610478548657" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="3771">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1678454017" MODIFIED="1610478548657" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1583869914" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1587836878" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1703087071" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_770488470" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1810610795" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_280367199" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1708761524" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1757440600" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1750168966" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1076791034" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_382168424" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1532014507" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_504079285" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_614524023" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1926183967" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_683073456" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_240232075" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_832866088" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos;&#xa2;CD_USUARIO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_274353249" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1467629367" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_911821581" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1436523599" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1615531014" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":CONTROLE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1282292562" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1616023158" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1184811605" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1370346894" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_70307119" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_420318716" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_403861416" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_709435876" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1441642604" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos; - &apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_845254665" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1698325948" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1466238932" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1618158795" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1288008114" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":CONTROLE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1360132283" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_655977221" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_895442471" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="NM_USUAUTORIZ">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_825869792" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1808055738" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1293678525" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1547317625" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1914008439" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1133182923" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_809535598" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_129186108" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1017353312" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1268882051" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_557358098" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_306942126" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1162078108" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_496788067" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1605455790" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_490108758" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_210751614" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1850050878" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_454534964" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_86572604" MODIFIED="1610478548657" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1554932364" MODIFIED="1610478548657" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_16632941" MODIFIED="1610478548657" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_957424003" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_862708000" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_117583170" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_284412176" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1195646479" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_874032863" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_222899504" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1720124717" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1753280982" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1366391528" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_16507552" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_471299556" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_544443348" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1691209429" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_361111285" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_486135211" MODIFIED="1610478548657" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1642727120" MODIFIED="1610478548657" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_218284949" MODIFIED="1610478548657" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1959184413" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_847140104" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1401581147" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_425118703" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1117213041" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_407176064" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_297436848" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_549463754" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_40757176" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_89698527" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_347974494" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_35204197" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_141090213" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1455461724" MODIFIED="1610478548657" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_944787906" MODIFIED="1610478548657" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1099890502" MODIFIED="1610478548657" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1155986347" MODIFIED="1610478548657" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1672095836" MODIFIED="1610478548657" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_360354866" MODIFIED="1610478548657" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_422260105" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1579028503" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="OTHERS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_226174385" MODIFIED="1610478548657" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_487506890" MODIFIED="1610478548657" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_797251172" MODIFIED="1610478548657" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1014273570" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1744293573" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1367129978" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_643933408" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_505377101" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_246786142" MODIFIED="1610478548657" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1799437716" MODIFIED="1610478548657" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1998026546" MODIFIED="1610478548657" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1269736672" MODIFIED="1610478548657" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1188322809" MODIFIED="1610478548657" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1429442858" MODIFIED="1610478548657" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1219840257" MODIFIED="1610478548657" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1801118556" MODIFIED="1610478548657" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_790331681" MODIFIED="1610478548657" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_232119559" MODIFIED="1610478548657" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1339986754" MODIFIED="1610478548657" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1566310479" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_131933787" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1577365100" MODIFIED="1610478548657" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1318072717" MODIFIED="1610478548657" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_137914763" MODIFIED="1610478548657" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" MODIFIED="1610478548657" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_1923752809" MODIFIED="1610478548657" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548657" FOLDED="true" ID="ID_818817433" MODIFIED="1610478548657" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1289822706" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_702498559" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_788845199" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1986208893" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1778879114" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1139501543" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1440260756" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1112132347" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_817178021" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1323406222" MODIFIED="1610478548658" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1826223326" MODIFIED="1610478548658" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="3958">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1338305332" MODIFIED="1610478548658" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1003255982" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1897698019" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_197758732" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1011748982" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_900527369" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_914108705" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1852097626" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1174156262" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_489649269" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_938932113" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_718387321" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1740312074" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_939931563" MODIFIED="1610478548658" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_257932138" MODIFIED="1610478548658" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="&apos;&#xa2;SQLERRM=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1356821826" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1566630998" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_627710442" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_578305136" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_61551332" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_989691599" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_429504311" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1041320778" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="SQLERRM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1169801339" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1910556169" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1665608088" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1464568843" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_381205826" MODIFIED="1610478548658" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1511191202" MODIFIED="1610478548658" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1005238019" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_231716284" MODIFIED="1610478548658" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1295504219" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_83424516" MODIFIED="1610478548658" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_861065768" MODIFIED="1610478548658" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1411018141" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1738160228" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1749508117" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_164586063" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1950391489" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1577451284" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_60113707" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1366811536" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1638939319" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1191810168" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1489395791" MODIFIED="1610478548658" TEXT="expressions">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1617545806" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1472697729" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_982635121" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_897679298" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_890161916" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_905099336" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_872728444" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_858356323" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_212129073" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1905727849" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1217944632" MODIFIED="1610478548658" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_243261289" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_921569584" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_624654233" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1805999987" MODIFIED="1610478548658" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1946111232" MODIFIED="1610478548658" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1631534308" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_869681294" MODIFIED="1610478548658" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1478858937" MODIFIED="1610478548658" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1736818114" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1521017256" MODIFIED="1610478548658" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_661641689" MODIFIED="1610478548658" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_346615075" MODIFIED="1610478548658" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1551044033" MODIFIED="1610478548658" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_23837369" MODIFIED="1610478548658" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1225106647" MODIFIED="1610478548658" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_13006864" MODIFIED="1610478548658" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_624554663" MODIFIED="1610478548658" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_271235690" MODIFIED="1610478548658" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_5420589" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1121785016" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1154055897" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1929882063" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_262692239" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_16335381" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1445006772" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_171257435" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_368258250" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1756055291" MODIFIED="1610478548658" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1063835716" MODIFIED="1610478548658" TEXT="numeric_function_wrapper">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1951104231" MODIFIED="1610478548658" TEXT="numeric_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="MAX">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_219978143" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_595941720" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1530925625" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1622433453" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_433584333" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1575733574" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1354824886" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_983387591" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_517180584" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_252486141" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_768427356" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1496466458" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_270520139" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1515259420" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_285763266" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1515418964" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_799536345" MODIFIED="1610478548658" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_382117783" MODIFIED="1610478548658" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1721802051" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_296044577" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="V_CD_AUTORICCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1760887593" MODIFIED="1610478548658" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1253673421" MODIFIED="1610478548658" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_338934345" MODIFIED="1610478548658" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1118618602" MODIFIED="1610478548658" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1548648792" MODIFIED="1610478548658" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1930710063" MODIFIED="1610478548658" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1647631018" MODIFIED="1610478548658" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1474504133" MODIFIED="1610478548658" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1136367501" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_510256595" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1091593329" MODIFIED="1610478548658" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1425670745" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1206926055" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1260856466" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_33182104" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_203593172" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1182072269" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1163387437" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_568515509" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1804076975" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_646403830" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1546428015" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1080899629" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1418892030" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1963173125" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1950645307" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1630648366" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_941568437" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_759718092" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1803917005" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_233825601" MODIFIED="1610478548658" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_725516258" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1632247326" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_274036305" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_5670018" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_136786149" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_8495498" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1538445215" MODIFIED="1610478548658" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1683859903" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_270456053" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_389830751" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_208370535" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_177157949" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1138169776" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1196199443" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_739692952" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1174145443" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_289652025" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1438734561" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1496318543" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1896216286" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1966535050" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_489836035" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_760767270" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1631454979" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_108705580" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_610829814" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_411732924" MODIFIED="1610478548658" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_805621662" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_970280203" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_634081089" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_929790789" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1320019553" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1468772516" MODIFIED="1610478548658" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1902478835" MODIFIED="1610478548658" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1478400036" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_462012643" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1624030812" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_951285290" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1214854039" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1893376674" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_323066066" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_777428998" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_685990081" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_296212276" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1432210741" MODIFIED="1610478548658" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_871083667" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1495613709" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_623296868" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_EMPRCCUSTODEST">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_154677717" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1824728954" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1431712463" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_332914537" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1333779818" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_707469851" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_998027761" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_207480674" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1268176980" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_526753468" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_851287475" MODIFIED="1610478548658" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":GLOBAL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_750765214" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1480072940" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_401114277" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_271804132" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1113620449" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_797071551" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_461918235" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1530028537" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1997611511" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_265568915" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1463280262" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_728585631" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_874701355" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_752753998" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1596169317" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_674928502" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1354196707" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1884671408" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1427485968" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="ST_REGISTRO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1856451788" MODIFIED="1610478548658" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1171401843" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1978147415" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1791691000" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_539371086" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_124589080" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1672572414" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_88258919" MODIFIED="1610478548658" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_157395249" MODIFIED="1610478548658" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="&apos;S&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_567160350" MODIFIED="1610478548658" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_491169454" MODIFIED="1610478548658" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1516774005" MODIFIED="1610478548658" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_821471425" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_246418671" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="OTHERS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_936751159" MODIFIED="1610478548658" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_533004228" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1177582531" MODIFIED="1610478548658" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1459346193" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_251994473" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_746481814" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_683308180" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="V_CD_AUTORICCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1556665093" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_357673442" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_636396038" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1221859307" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_625379393" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_722823477" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_949578165" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_664309303" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_448962769" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1899161073" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_753173446" MODIFIED="1610478548658" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1566646042" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1945273113" MODIFIED="1610478548658" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_39862566" MODIFIED="1610478548658" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1699659646" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_760118782" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_783006875" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_169833746" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1102204916" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1311131773" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1721740638" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1108108017" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_288372495" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1973942066" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1033746547" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1353825513" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_203701210" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1895493361" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="V_CD_AUTORICCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_652074718" MODIFIED="1610478548658" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_208689353" MODIFIED="1610478548658" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_420648222" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_912212338" MODIFIED="1610478548658" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_605748253" MODIFIED="1610478548658" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1475898243" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1403095035" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1477482123" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1643867880" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_100515501" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_560117059" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_562381072" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1804880278" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1349991890" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_681722630" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1204220244" MODIFIED="1610478548658" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":CONTROLE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1762708426" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1744750010" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_129701647" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_462138448" MODIFIED="1610478548658" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1013767675" MODIFIED="1610478548658" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1010378050" MODIFIED="1610478548658" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_158930845" MODIFIED="1610478548658" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_453481328" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1095074832" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_921704010" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1523244097" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1105836645" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1279873769" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_328353987" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1689741840" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1519383568" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1141428987" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_486345032" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1043763909" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1241494509" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1924883211" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_74523860" MODIFIED="1610478548658" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1392053450" MODIFIED="1610478548658" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_5275576" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_852365472" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_328296502" MODIFIED="1610478548658" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_636188139" MODIFIED="1610478548658" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1132043656" MODIFIED="1610478548658" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_495523833" MODIFIED="1610478548658" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1158657915" MODIFIED="1610478548658" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_507085885" MODIFIED="1610478548658" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_547800411" MODIFIED="1610478548658" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_238505700" MODIFIED="1610478548658" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1859402627" MODIFIED="1610478548658" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1145796993" MODIFIED="1610478548658" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_629328444" MODIFIED="1610478548658" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_334972215" MODIFIED="1610478548658" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_326847091" MODIFIED="1610478548658" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1051594120" MODIFIED="1610478548658" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_219326915" MODIFIED="1610478548658" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" FOLDED="true" ID="ID_1090069653" MODIFIED="1610478548658" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT="33735">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548658" MODIFIED="1610478548658" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_441129446" MODIFIED="1610478548659" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_301013707" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_725480458" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_836591394" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_673735335" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_350226331" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1909537163" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_438715142" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1293300902" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_423783725" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_617905726" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_315759339" MODIFIED="1610478548659" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1922696814" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1748612044" MODIFIED="1610478548659" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1358887546" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1792660836" MODIFIED="1610478548659" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_423475434" MODIFIED="1610478548659" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_804736057" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_343102055" MODIFIED="1610478548659" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_353693025" MODIFIED="1610478548659" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1459474447" MODIFIED="1610478548659" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_726206206" MODIFIED="1610478548659" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1866810265" MODIFIED="1610478548659" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1996956780" MODIFIED="1610478548659" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1496748829" MODIFIED="1610478548659" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1149139153" MODIFIED="1610478548659" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1620365339" MODIFIED="1610478548659" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1436445584" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1364164401" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1716697906" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1580186120" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_184966812" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1089274152" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_681901552" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_331391560" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_518510308" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1596612165" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1216318131" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_88616178" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1066382513" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_203889496" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1675070408" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1953472724" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_329434943" MODIFIED="1610478548659" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_408243770" MODIFIED="1610478548659" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1302428093" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1765360152" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="V_CD_AUTORICCUSTO2">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_931448454" MODIFIED="1610478548659" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_598802580" MODIFIED="1610478548659" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_43074158" MODIFIED="1610478548659" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_15710808" MODIFIED="1610478548659" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_92864711" MODIFIED="1610478548659" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1426220997" MODIFIED="1610478548659" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_71417965" MODIFIED="1610478548659" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_193882894" MODIFIED="1610478548659" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1571412229" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1697342886" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1253615296" MODIFIED="1610478548659" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_269350226" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_208223462" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1681679984" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_986981741" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_878636512" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_829005390" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_325667089" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_479207105" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_440532951" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1211847627" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1803031315" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1048383187" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1385224473" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1323636791" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1441104338" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1650551562" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1455252550" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1636475985" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1464862013" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_404168721" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_431555440" MODIFIED="1610478548659" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_493817867" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_910846802" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_415320845" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1986678577" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_116431232" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1055800275" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_317306903" MODIFIED="1610478548659" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1381037755" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_625882328" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_380471175" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_528873255" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_833331022" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1036502757" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_101502103" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_674155527" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_379236562" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1232812131" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_123555273" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1729121826" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1440158797" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_401814208" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1962641461" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_57434712" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_311410246" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_303808631" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_441681086" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_483221975" MODIFIED="1610478548659" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1418381861" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_108256555" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_731948999" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_864005560" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1561432133" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_927674770" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_77632434" MODIFIED="1610478548659" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":CONTROLE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1972880468" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1235690661" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1503079439" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_616493864" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_156230205" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1598864610" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_735962938" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_52631006" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1189540853" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_805078320" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1889459583" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1164374110" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_148107407" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1516113276" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1423595905" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1636715714" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1841863009" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1259075438" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_192276956" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1282432086" MODIFIED="1610478548659" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_358759649" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1678886677" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_209107610" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_609151263" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1102471452" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_353857029" MODIFIED="1610478548659" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_53585313" MODIFIED="1610478548659" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1751228397" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_259459985" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1952311581" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_510550857" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1224893617" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_621424318" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1547436891" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_163123331" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1872088170" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1921930589" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1414165803" MODIFIED="1610478548659" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_949260355" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_35197443" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1359812955" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_EMPRCCUSTODEST">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_221223545" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_930658618" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_906311534" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_437417239" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_17598094" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1408438539" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1111982377" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_302333880" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1344066804" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1742183403" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1104006174" MODIFIED="1610478548659" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":GLOBAL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_6262005" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1822661332" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1606279976" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_EMPRESA">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1684555535" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1613616109" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_26585744" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1944243682" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_712411619" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_574388696" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1912601601" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_368757094" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_651074961" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_760741946" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_873380196" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1306057364" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1941735125" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1722508297" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="AUTORIZCCUSTORESTRITO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1675900803" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1460597210" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="ST_REGISTRO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_808415309" MODIFIED="1610478548659" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_643550948" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_772685903" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_334415569" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1631950643" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_489853253" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_421321381" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_249931971" MODIFIED="1610478548659" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_249316068" MODIFIED="1610478548659" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="&apos;S&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1654566431" MODIFIED="1610478548659" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_409229811" MODIFIED="1610478548659" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_571651357" MODIFIED="1610478548659" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1848022724" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_678341460" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="NO_DATA_FOUND">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_490520288" MODIFIED="1610478548659" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_862629050" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_251245259" MODIFIED="1610478548659" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_481061125" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1266367007" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1378095658" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_980689849" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_50165797" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1969593248" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1177683311" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_911483303" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1978079096" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_550888459" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_496136080" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1331815826" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_292935969" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1687978237" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1953557955" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1283280027" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_416828392" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1418203271" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_921198824" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_539789302" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1156265106" MODIFIED="1610478548659" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1979077168" MODIFIED="1610478548659" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1221810728" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_215375190" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_65451687" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1235244684" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1706846580" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_224499824" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1838945354" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_454596271" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1663763101" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1344687997" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_95986759" MODIFIED="1610478548659" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1765842679" MODIFIED="1610478548659" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="33731">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_812016858" MODIFIED="1610478548659" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1057420214" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1131364084" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_490857777" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_633520054" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1574843085" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_592494592" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_67440211" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1506506547" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1649228410" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_432513480" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_147990685" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1948687606" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1439373237" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1168563620" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_715740539" MODIFIED="1610478548659" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1540890720" MODIFIED="1610478548659" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="&apos;&#xa2;CD_AUTORIZADOR=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1468498622" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1232186122" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_809312621" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1685104359" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1023282601" MODIFIED="1610478548659" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":CONTROLE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_564989146" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_824457516" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1252090228" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_AUTORIZADOR">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_414082605" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1933897099" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1651618523" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_887788063" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1730810529" MODIFIED="1610478548659" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_268008462" MODIFIED="1610478548659" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_206608709" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1446410560" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1337765113" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1816232913" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_43440454" MODIFIED="1610478548659" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1859227227" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1943562833" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1542084603" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1152637617" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1177918487" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1357813270" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_451348265" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1991099462" MODIFIED="1610478548659" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1734909330" MODIFIED="1610478548659" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_453680635" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1590626730" MODIFIED="1610478548659" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1965542071" MODIFIED="1610478548659" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_142075395" MODIFIED="1610478548659" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1749842849" MODIFIED="1610478548659" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_678002752" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1053696893" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="E_GERAL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1242859176" MODIFIED="1610478548659" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_129194724" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1255578692" MODIFIED="1610478548659" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_648092092" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1900631510" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1903694828" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1976821557" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_94575792" MODIFIED="1610478548659" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_350516577" MODIFIED="1610478548659" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1609824001" MODIFIED="1610478548659" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1795389490" MODIFIED="1610478548659" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1095183518" MODIFIED="1610478548659" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1091546666" MODIFIED="1610478548659" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_595295978" MODIFIED="1610478548659" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1229647722" MODIFIED="1610478548659" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_647576303" MODIFIED="1610478548659" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_820591674" MODIFIED="1610478548659" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1813882667" MODIFIED="1610478548659" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1069439374" MODIFIED="1610478548659" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1921265295" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1324515360" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_745225729" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1149900607" MODIFIED="1610478548659" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1363731050" MODIFIED="1610478548659" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1686773844" MODIFIED="1610478548659" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_872834258" MODIFIED="1610478548659" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_821622201" MODIFIED="1610478548659" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_959984057" MODIFIED="1610478548659" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="NO_DATA_FOUND">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548659" MODIFIED="1610478548659" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1797380372" MODIFIED="1610478548659" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_1612242211" MODIFIED="1610478548659" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548659" FOLDED="true" ID="ID_672975160" MODIFIED="1610478548659" TEXT="null_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_870257273" MODIFIED="1610478548660" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1916012482" MODIFIED="1610478548660" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1897982371" MODIFIED="1610478548660" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1797770908" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_246307344" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="TOO_MANY_ROWS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1849240618" MODIFIED="1610478548660" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1157611507" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_582726903" MODIFIED="1610478548660" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1932684445" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_235247171" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_744918950" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_529745819" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_465770040" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1726499766" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1118087559" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_213674501" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_952596848" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_750766562" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_137474164" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1541907183" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_231596871" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1538653242" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1438435868" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_246604530" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;A consulta retornou mais de uma empresa para esta condi&#xe7;&#xe3;o.&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_440039552" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1641249439" MODIFIED="1610478548660" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_27546811" MODIFIED="1610478548660" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1994863170" MODIFIED="1610478548660" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1454804649" MODIFIED="1610478548660" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1573033766" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_162072635" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="OTHERS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_364627381" MODIFIED="1610478548660" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1474896302" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1481637497" MODIFIED="1610478548660" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1232001347" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_237874975" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_397103655" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_299277410" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1183163923" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_371668984" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_742524048" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1630134883" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_28554716" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1296652067" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_392934210" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_767752631" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1678945391" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1115047708" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1401873899" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1651991034" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_521899446" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;Erro inesperado: &apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1070036884" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_842143663" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_647471290" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_67291930" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1229085642" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1567767205" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1936785813" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_802099981" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="SQLERRM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_440875104" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_782219384" MODIFIED="1610478548660" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1251374364" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1479615257" MODIFIED="1610478548660" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_807845020" MODIFIED="1610478548660" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_591051486" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1873213544" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1487270452" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1308378814" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1146530694" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1518756662" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1692136490" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1305952702" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1546344856" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1239230841" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_782494225" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_805059496" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_187085768" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_138839116" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_948181676" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="V_CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1882638839" MODIFIED="1610478548660" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_218803336" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_490049713" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_327715756" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_525358934" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_567406486" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_677746271" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_453522084" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_90115051" MODIFIED="1610478548660" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="0">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_959802322" MODIFIED="1610478548660" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1679130657" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_748290123" MODIFIED="1610478548660" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="BEGIN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1656842629" MODIFIED="1610478548660" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_611549149" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_401704141" MODIFIED="1610478548660" TEXT="sql_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1855280555" MODIFIED="1610478548660" TEXT="data_manipulation_language_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1333867948" MODIFIED="1610478548660" TEXT="select_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_190702436" MODIFIED="1610478548660" TEXT="select_only_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_172347613" MODIFIED="1610478548660" TEXT="subquery">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_390873751" MODIFIED="1610478548660" TEXT="subquery_basic_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1535560403" MODIFIED="1610478548660" TEXT="query_block">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="SELECT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_355431314" MODIFIED="1610478548660" TEXT="selected_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_760005602" MODIFIED="1610478548660" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1442354128" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1445074063" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_924589739" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1282305729" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1992396947" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1416559792" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_823691207" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1577295380" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1944816582" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_477757336" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_186205976" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_252485288" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_9469593" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_518357829" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1970774335" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1442960475" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_581527647" MODIFIED="1610478548660" TEXT="select_list_elements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1730083637" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1217903608" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_990252202" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1550883966" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_753722275" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_388686351" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_331831984" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1768101886" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1624056412" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1753049334" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_5470521" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1733986505" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_278729285" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_925451743" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_643248536" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_490045902" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="DS_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1023718487" MODIFIED="1610478548660" TEXT="into_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="INTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_233846989" MODIFIED="1610478548660" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1612779373" MODIFIED="1610478548660" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1239309956" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_460449689" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1067317237" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1921157434" MODIFIED="1610478548660" TEXT="variable_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1453141408" MODIFIED="1610478548660" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_949379991" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_619103917" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1687760929" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="DS_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1920368334" MODIFIED="1610478548660" TEXT="from_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="FROM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1748433537" MODIFIED="1610478548660" TEXT="table_ref_list">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_127869578" MODIFIED="1610478548660" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_302440844" MODIFIED="1610478548660" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1871363251" MODIFIED="1610478548660" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1523076120" MODIFIED="1610478548660" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_369542174" MODIFIED="1610478548660" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1508189453" MODIFIED="1610478548660" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_146465495" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1743759487" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1683796221" MODIFIED="1610478548660" TEXT="table_ref">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1140272522" MODIFIED="1610478548660" TEXT="table_ref_aux">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1820902829" MODIFIED="1610478548660" TEXT="table_ref_aux_internal">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1884887168" MODIFIED="1610478548660" TEXT="dml_table_expression_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1823379287" MODIFIED="1610478548660" TEXT="tableview_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_443645440" MODIFIED="1610478548660" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_636477126" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1324652100" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1136539691" MODIFIED="1610478548660" TEXT="where_clause">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="WHERE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_684009565" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_125860731" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1462259507" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1017781963" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1622829148" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_997859177" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1276785665" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1722821780" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1072829924" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_456393804" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1763104277" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_16807052" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1650755713" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1844835365" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_79575352" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_807096969" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_719933511" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1304843086" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_845911164" MODIFIED="1610478548660" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_554719755" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1626137297" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_576061625" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_862582689" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1314010724" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_565774157" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_122895694" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_91634917" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_924138139" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_912298258" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_648418020" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1363698417" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_952274314" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1133306999" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_973575271" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_622373500" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1083692654" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_512815373" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1994160116" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1342895630" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1567700178" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_205403269" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_292586196" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_761330485" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_123736088" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_483344928" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1540269967" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_84339736" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1106826651" MODIFIED="1610478548660" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1407164536" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_611705513" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1288227167" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1896244391" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1290058704" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_865546214" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_775601048" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_948248952" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_475278336" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_593087466" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_322217334" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_858204517" MODIFIED="1610478548660" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1739282261" MODIFIED="1610478548660" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1346137736" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1141332981" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1840784201" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1435331287" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1642969730" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_394614049" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1770591147" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_230300388" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1922894829" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_608363818" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_61044526" MODIFIED="1610478548660" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_602333438" MODIFIED="1610478548660" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1893503095" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_639033123" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1023923113" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1478998667" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_147186658" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1624482824" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1673809753" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1721941625" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1308431890" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1311621711" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1053024635" MODIFIED="1610478548660" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_399379222" MODIFIED="1610478548660" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_64078885" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_594857184" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="PACK_PARMGEN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_505040859" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_472280406" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="CONSULTA_PARAMETRO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_251904730" MODIFIED="1610478548660" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1138771810" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_634788001" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1037389858" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_672707639" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_96743915" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_675847867" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1321129834" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1507918691" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1618093209" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_756082623" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1363321472" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_768159165" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1592906037" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;CTI&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1105083297" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1574525448" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1586369897" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_72036659" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1429633112" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_375821010" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_685073737" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_670629479" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_338634872" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_681381346" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_953740702" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1699486503" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_97806514" MODIFIED="1610478548660" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="10">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1718892968" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_449170741" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_213637219" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_687064567" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1483215108" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1768726615" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_207274165" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_900961522" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1960461637" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1618632642" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_78250279" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_456479814" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_263215174" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;MAX&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1581834248" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1538836578" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1738059157" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_897882575" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_519943971" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_941646338" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1803744796" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1793674420" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_353517738" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_450025073" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_59793211" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_607972653" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1299450105" MODIFIED="1610478548660" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="100">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1468488280" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_350844887" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1254023996" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_526775860" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_489439290" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_45771558" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1470753918" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_168310635" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_96946961" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1832470599" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1562620679" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_115609672" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1525858278" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;ST_NEGOCIOCCUSTO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_442902451" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_805414740" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_207792332" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_500059395" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_219703619" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_693677393" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_49307918" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_139233070" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1932216680" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_283535578" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1802218589" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_921356857" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1552843226" MODIFIED="1610478548660" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1640148933" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1636414856" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_889361798" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_830973552" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1342741967" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1667469408" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1996593766" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_85115296" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1041505927" MODIFIED="1610478548660" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_200062379" MODIFIED="1610478548660" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_354263485" MODIFIED="1610478548660" TEXT="function_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1175754208" MODIFIED="1610478548660" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_332089172" MODIFIED="1610478548660" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_408381057" MODIFIED="1610478548660" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_556796445" MODIFIED="1610478548660" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="SET_ITEM_PROPERTY">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_72187910" MODIFIED="1610478548660" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1183869518" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_162053431" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1169288739" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_36767628" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1147315986" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_828944341" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1730366105" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1339148367" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1844481845" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_822165823" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_404203043" MODIFIED="1610478548660" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1266645687" MODIFIED="1610478548660" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1379784131" MODIFIED="1610478548660" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT="&apos;ITEMCOMPRACCUSTO.CD_NEGOCIO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548660" MODIFIED="1610478548660" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1189348613" MODIFIED="1610478548660" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1765238485" MODIFIED="1610478548660" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1476658757" MODIFIED="1610478548660" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_263009525" MODIFIED="1610478548660" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1948230016" MODIFIED="1610478548660" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_740308978" MODIFIED="1610478548660" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_904093701" MODIFIED="1610478548660" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_508171502" MODIFIED="1610478548660" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_1102644371" MODIFIED="1610478548660" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548660" FOLDED="true" ID="ID_411503092" MODIFIED="1610478548660" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_880742516" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1266941318" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_116889477" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1980924147" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_827958205" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="ENABLED">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_373566677" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_442371183" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1590897586" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_765264863" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1409052868" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_430970037" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_828262649" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1621454033" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1073664350" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_792032100" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1753139426" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_702512221" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_772703723" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_936234212" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1899349955" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="PROPERTY_FALSE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1449517044" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1226153566" MODIFIED="1610478548661" TEXT="function_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1474231679" MODIFIED="1610478548661" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1627259118" MODIFIED="1610478548661" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_405404721" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_468291128" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="SET_ITEM_PROPERTY">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_270055163" MODIFIED="1610478548661" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_696997255" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_512475241" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1279250069" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_215386937" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1623681369" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1171627876" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1868586879" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1978463529" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_376794128" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_330457875" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1223539842" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_885934014" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_349099894" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;ITEMCOMPRACCUSTO.CD_NEGOCIO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1345746310" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1219364913" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_934260164" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1042534226" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_839581885" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_112152607" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1363679920" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_554798645" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_835609076" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1088379250" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_815969687" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_956147143" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1460095828" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_910857453" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1139481584" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="VISUAL_ATTRIBUTE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1058781510" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_15921807" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_70367132" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1157096250" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1445914040" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_955697784" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_440587187" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1391345602" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1626281572" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_280268796" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1916556081" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_521076603" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1954785868" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;VSA_CAMPOEXIBICAO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1397882094" MODIFIED="1610478548661" TEXT="else_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="ELSE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_223333801" MODIFIED="1610478548661" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_372591002" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_898725967" MODIFIED="1610478548661" TEXT="function_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1641693080" MODIFIED="1610478548661" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1280995338" MODIFIED="1610478548661" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1626477670" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1237453458" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="SET_ITEM_PROPERTY">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_566913699" MODIFIED="1610478548661" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_555308152" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_940996673" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1662696298" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_55161660" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1811191109" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_804165432" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1801044892" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_526900337" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1294974926" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1532279655" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_192444656" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_112611118" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_187372460" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;ITEMCOMPRACCUSTO.CD_NEGOCIO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_985959097" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_869469071" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1881572311" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_919031333" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1985807448" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1871334094" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_89967274" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_573004879" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1189488152" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1803209835" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_872723738" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_575321029" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_671217570" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1246940511" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1092488229" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="ENABLED">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_854271363" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1831190628" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_664579991" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_335216507" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1176231675" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_531831890" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1167689927" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1425224829" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1287096237" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_598331599" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1671620404" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1307772497" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1949332628" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_234982767" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_992578108" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="PROPERTY_TRUE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_125828271" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1277483799" MODIFIED="1610478548661" TEXT="function_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_981961180" MODIFIED="1610478548661" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_17707609" MODIFIED="1610478548661" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_916625352" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1193180377" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="SET_ITEM_PROPERTY">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_467428501" MODIFIED="1610478548661" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1219629319" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_697231554" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1618548338" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1409293061" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_570540618" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1333584619" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1460360061" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_847939293" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1394939239" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_418235069" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1251092533" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_277119159" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_481579883" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;ITEMCOMPRACCUSTO.CD_NEGOCIO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1181797094" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_867552854" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_863768265" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_293815988" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1957332068" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_804095328" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1409599635" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_733787267" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_860876929" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1841948888" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_259835098" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1186491600" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_545692667" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1880274241" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_193781566" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="VISUAL_ATTRIBUTE">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_472701774" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_402738429" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_592504879" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_396324071" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_856262763" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1540484067" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1068879830" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_45798702" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1387644978" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1741698275" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_246518778" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1425752551" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_444892243" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;VSA_CAMPOTEXTO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="EXCEPTION">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1711115364" MODIFIED="1610478548661" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_835500237" MODIFIED="1610478548661" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1511396553" MODIFIED="1610478548661" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1814600621" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1388081714" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="NO_DATA_FOUND">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1141051324" MODIFIED="1610478548661" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_571055515" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1326615367" MODIFIED="1610478548661" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1628882497" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1072783939" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1697867209" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1542124108" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_570757523" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1897710677" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1257378910" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_121779801" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1479723009" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1784106349" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1498500906" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1843096977" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1365546896" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1130318531" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1010478013" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1249780799" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1407355190" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1265716149" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_246686503" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1001422132" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1005186638" MODIFIED="1610478548661" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1606405658" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1175409324" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1250559151" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1628863493" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_486160499" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_963576871" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1064692196" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1514428806" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_147315505" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_149638926" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_718066885" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1522269954" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_541547095" MODIFIED="1610478548661" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="5243">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_24704960" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_719670115" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1657088545" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1167523798" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_255545665" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_552037703" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1944566659" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1029178180" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1652002837" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1752370307" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_401924745" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1258430458" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1464416691" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_215885107" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1787030016" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1801168542" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_446084005" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1440758162" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1896157957" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1401143493" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1792565831" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_252224148" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1087263413" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1775347876" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1697946207" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_147395805" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_885999008" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1832198058" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_55309262" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1520939669" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_525884900" MODIFIED="1610478548661" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_515519041" MODIFIED="1610478548661" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1168757342" MODIFIED="1610478548661" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_699960045" MODIFIED="1610478548661" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1169798411" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1242866712" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="TOO_MANY_ROWS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1180274255" MODIFIED="1610478548661" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1220417397" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1772480251" MODIFIED="1610478548661" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1763432433" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1410570748" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_160148109" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1542795225" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_706458465" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_467191334" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1325695263" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1474690655" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1692854542" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1178832159" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_219504498" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_28240042" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_639417071" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1102230334" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1813981485" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_219281563" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_800663514" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_109865370" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_731962627" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_671239076" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1208575227" MODIFIED="1610478548661" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_431178080" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1520143765" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_746147903" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1597293279" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_197733146" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_509485207" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1905125113" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_648039910" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1336531287" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1243234457" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_892841064" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_146458391" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_104082356" MODIFIED="1610478548661" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="6306">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_769173983" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1623371311" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1721366194" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1167075054" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_812650752" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_245918997" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1269137247" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_601448208" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1883088930" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_682850976" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1938703703" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1421448023" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_295570016" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1479416349" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1975710117" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_684117437" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_285320335" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1458341880" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_878334425" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1350107337" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_405452140" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_711574641" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_140245294" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1911776508" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1112053935" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1333404855" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1719250420" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_271836193" MODIFIED="1610478548661" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1253090623" MODIFIED="1610478548661" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_562868883" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1398189980" MODIFIED="1610478548661" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_760933085" MODIFIED="1610478548661" TEXT="exception_handler">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="WHEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1356256024" MODIFIED="1610478548661" TEXT="exception_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_429965795" MODIFIED="1610478548661" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1018520239" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1224011664" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="OTHERS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_405303034" MODIFIED="1610478548661" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_533143022" MODIFIED="1610478548661" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_93709440" MODIFIED="1610478548661" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_84361909" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1032472570" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1495770630" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1631125991" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_27091289" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_659056662" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1831108632" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_613320029" MODIFIED="1610478548661" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1511654663" MODIFIED="1610478548661" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_520638178" MODIFIED="1610478548661" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1184233358" MODIFIED="1610478548661" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1139769642" MODIFIED="1610478548661" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1535025291" MODIFIED="1610478548661" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_24252747" MODIFIED="1610478548661" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1848806666" MODIFIED="1610478548661" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_55632126" MODIFIED="1610478548661" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1182498308" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_860524785" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_29121236" MODIFIED="1610478548661" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_974301359" MODIFIED="1610478548661" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1427482967" MODIFIED="1610478548661" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" MODIFIED="1610478548661" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1016730613" MODIFIED="1610478548661" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_797116697" MODIFIED="1610478548661" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_1097735042" MODIFIED="1610478548661" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548661" FOLDED="true" ID="ID_152297114" MODIFIED="1610478548661" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1467102993" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_113440370" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_659043156" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1044136101" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_450412494" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_532990577" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_905676442" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1111987570" MODIFIED="1610478548662" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1528342465" MODIFIED="1610478548662" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="6307">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1869045921" MODIFIED="1610478548662" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1700962139" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1609222065" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1685440071" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1528583047" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_323939754" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1679072982" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_63602193" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1674186270" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1208474212" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_248690931" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1921904326" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1925056478" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1954410548" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_826972965" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1189505316" MODIFIED="1610478548662" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_193154586" MODIFIED="1610478548662" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_144229249" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_110052595" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_379746623" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1368940321" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1264182791" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1819244882" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_852068164" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1399570274" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_947408145" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_835341906" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_718630375" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1952764163" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1186496662" MODIFIED="1610478548662" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_207707159" MODIFIED="1610478548662" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="&apos;&#xa2;SQLERRM=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1698475426" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_979266771" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1386173382" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_236742045" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1049666930" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1841681927" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1244954742" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1955125772" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="SQLERRM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1228309584" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1504478462" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_899870309" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_349442559" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_53579999" MODIFIED="1610478548662" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1743070014" MODIFIED="1610478548662" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1974787748" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_51863666" MODIFIED="1610478548662" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1402732097" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_433807077" MODIFIED="1610478548662" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1754535508" MODIFIED="1610478548662" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_447930959" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1341706381" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1433934345" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1839657845" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1824082405" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1202957574" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1204628962" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_237374776" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_762487866" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_621001077" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_488579005" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1726403408" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_110359617" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_345323632" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_68004244" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":SYSTEM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_518724162" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1019253997" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1148065471" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="CURSOR_ITEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1747350032" MODIFIED="1610478548662" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_418028022" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1696000809" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1191080964" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_845747099" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_249976588" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_320807764" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_823673367" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":SYSTEM">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_499202304" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_70465997" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1871442491" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="TRIGGER_ITEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_431141959" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1824927014" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_510399884" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_324487497" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_307731591" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_989417527" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_755239894" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_629628411" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1037557284" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1475751942" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_193732356" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_772227788" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1779896049" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1696385922" MODIFIED="1610478548662" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1189490205" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1847477067" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1620841082" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_695338397" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1796277264" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1421465198" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1592058738" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1556651488" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_374988764" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1049471674" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_601456306" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1383487678" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_596761819" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1151576760" MODIFIED="1610478548662" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1886101584" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_347987518" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_618981606" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1549769052" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1789848907" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_832257402" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_172891749" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1427426228" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1898207548" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1104197543" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_232291766" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_405775921" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1170225586" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="CD_NEGOCIO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_603580544" MODIFIED="1610478548662" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1709648704" MODIFIED="1610478548662" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1777339973" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_638347857" MODIFIED="1610478548662" TEXT="function_call">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_245352204" MODIFIED="1610478548662" TEXT="routine_name">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_136195109" MODIFIED="1610478548662" TEXT="identifier">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1193254367" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1559692764" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="VALIDA_ORCAMENTO_IMP">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1389925274" MODIFIED="1610478548662" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1893502484" MODIFIED="1610478548662" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1210563830" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1413315241" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_375503242" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1600775621" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1194004201" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1326765353" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1341158519" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_607413829" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_235649962" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_141832325" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_536526431" MODIFIED="1610478548662" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_32843459" MODIFIED="1610478548662" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="&apos;ITEMCOMPRACCUSTO.CD_CONTAORCAMENTO&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_395852535" MODIFIED="1610478548662" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_611678256" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_94214538" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_870722868" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_145506650" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1058735866" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1725977947" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_557193482" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_663689653" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_532598626" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_468278524" MODIFIED="1610478548662" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1508587535" MODIFIED="1610478548662" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1311587973" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1023317466" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_941305644" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_32585920" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_52865520" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_750836233" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_917723872" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1106351285" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1002551835" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_395549350" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1487204704" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1913132224" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1049002528" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1717859222" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1534705177" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_983198525" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_27192740" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1808849520" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1459354767" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_432694750" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_783411307" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_769972565" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_364010358" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_372602545" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1270409668" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_80415665" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1060719258" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_482205027" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1959199069" MODIFIED="1610478548662" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1895291285" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1401414381" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_19840580" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_79406633" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1832823495" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1472477857" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_978898528" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1793115965" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_767267845" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_235862527" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_186078762" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1142662979" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_801340608" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_181972775" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1798290342" MODIFIED="1610478548662" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_696739783" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1485587473" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1895766332" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1077912943" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1997242414" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1625033826" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_361772903" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_924459997" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_582994463" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_140521891" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_133349209" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1795510895" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1413440071" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1524919285" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1161143263" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_306339050" MODIFIED="1610478548662" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1490630517" MODIFIED="1610478548662" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_908391046" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1652457108" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1766861322" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_141143870" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1105140270" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_963276081" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1874260012" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1704846616" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1250069236" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_226544297" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_45608100" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_976424737" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1241187094" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_398405762" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1076141128" MODIFIED="1610478548662" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_788405727" MODIFIED="1610478548662" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1460011735" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1885941701" MODIFIED="1610478548662" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1105696086" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1606550764" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1594443789" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1528680715" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_313877740" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_160355205" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1871482532" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_743222468" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1557652510" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1783547837" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_438266769" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1809344264" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1491558850" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1232166412" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1506625724" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1248298220" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_515683367" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_790322683" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1467360663" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_222038334" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1206275860" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_78317334" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_867678474" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_550159416" MODIFIED="1610478548662" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_217297838" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_610727039" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1802588493" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="V_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1616065361" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_606784763" MODIFIED="1610478548662" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_405296651" MODIFIED="1610478548662" TEXT="else_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="ELSE">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_791332793" MODIFIED="1610478548662" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_995717637" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1857479481" MODIFIED="1610478548662" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1537320117" MODIFIED="1610478548662" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1879430921" MODIFIED="1610478548662" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1135441536" MODIFIED="1610478548662" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_858264503" MODIFIED="1610478548662" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="DS_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_92400976" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1073810945" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_260817173" MODIFIED="1610478548662" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_576748764" MODIFIED="1610478548662" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_238981467" MODIFIED="1610478548662" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_943458007" MODIFIED="1610478548662" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_847542512" MODIFIED="1610478548662" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1908182763" MODIFIED="1610478548662" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_697390679" MODIFIED="1610478548662" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1109379134" MODIFIED="1610478548662" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1739807620" MODIFIED="1610478548662" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1586967316" MODIFIED="1610478548662" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1771844140" MODIFIED="1610478548662" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" MODIFIED="1610478548662" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_760845716" MODIFIED="1610478548662" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_161079898" MODIFIED="1610478548662" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1343574127" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548662" FOLDED="true" ID="ID_1059153669" MODIFIED="1610478548662" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_142530471" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1981920976" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1792535302" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1468271837" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_175040088" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1448967622" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_78813245" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_583352550" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_436856327" MODIFIED="1610478548663" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1850065094" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_763162598" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_946556550" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1941662253" MODIFIED="1610478548663" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_363023203" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1150020917" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_400363002" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1483374454" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1994317488" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1148088690" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1156191684" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_736222620" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_30598355" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1552455994" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_698099509" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_484565108" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_643748445" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_698626895" MODIFIED="1610478548663" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1037083620" MODIFIED="1610478548663" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1084585982" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1815165234" MODIFIED="1610478548663" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1452731670" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1932029389" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1011330481" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_328692635" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_ST_ATIVO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1361391424" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_513021611" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1932759809" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_355868853" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_150364034" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1500016104" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1416037771" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_250517454" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_575601010" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1823446693" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1117401291" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1107484742" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_731695862" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_90262463" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="PACK_COMPRAS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_757239401" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_990570146" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="VALIDA_RESTRICAOMOV">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1621890273" MODIFIED="1610478548663" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_416460129" MODIFIED="1610478548663" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_302127878" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_179433973" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_509869673" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1605937319" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_271728642" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1391483236" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_891058479" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_353864120" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_942917204" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_527758959" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1877982948" MODIFIED="1610478548663" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_648796703" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1193908730" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_840718965" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_684667387" MODIFIED="1610478548663" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_698752925" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_602803852" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1641876463" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1325989388" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1699346143" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_824856973" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_277921242" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_34212139" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_638445852" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1439401445" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1980012144" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1844461527" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_951117436" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1570902575" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_547003835" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1229674207" MODIFIED="1610478548663" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_141319061" MODIFIED="1610478548663" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1089615396" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_837502422" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1896150205" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_825295970" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1088917160" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1892266561" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1832634778" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_560505160" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_128702741" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1104354203" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_625842042" MODIFIED="1610478548663" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_410803941" MODIFIED="1610478548663" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1353905412" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_349477610" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1370477452" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_476509900" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_648270578" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1189143998" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_540427799" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_959592564" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_498174900" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_890880108" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1931917299" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_336984732" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1488258043" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1663787897" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_ST_ATIVO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1219491196" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_120454147" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_31172951" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1676368531" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1127956010" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1789526356" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_581449572" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_493795548" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_392296005" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_393521850" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1271982718" MODIFIED="1610478548663" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_460223172" MODIFIED="1610478548663" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1076802789" MODIFIED="1610478548663" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_948991803" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_991560439" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1877862024" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1428692773" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1467698451" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_644178900" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_952172552" MODIFIED="1610478548663" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1297808770" MODIFIED="1610478548663" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="&apos;S&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1844600473" MODIFIED="1610478548663" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1270257341" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1638731440" MODIFIED="1610478548663" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_940607787" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1342322600" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1079855031" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1933632751" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_60786713" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_218128834" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1913208408" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_442318738" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_985837532" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1081453157" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_301784220" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1373805161" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_889112663" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_90648446" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1358977192" MODIFIED="1610478548663" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1968410425" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1630535090" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1024734460" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_259583113" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_246204965" MODIFIED="1610478548663" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1153122864" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1238128088" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1647841964" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1174205746" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_182542679" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_530050592" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1985418705" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_219454900" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_962342736" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_876664259" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1998371482" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_703482209" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1137701648" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_438543886" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1197328739" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_57238406" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1942413628" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1384649189" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1119764905" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_259900249" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1002681285" MODIFIED="1610478548663" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1993191031" MODIFIED="1610478548663" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1682303771" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1945531576" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1572074926" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1949450437" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1433996156" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_524667342" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_717146012" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1941593989" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_855005931" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1763561326" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_135518683" MODIFIED="1610478548663" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_843838282" MODIFIED="1610478548663" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="31068">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_83805062" MODIFIED="1610478548663" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1801300551" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1695153447" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1950347647" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1660815708" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_366077045" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_676178817" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1882911799" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1999170984" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_300448274" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1656117428" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1112526066" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_482209142" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_886186801" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_629185704" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1518051523" MODIFIED="1610478548663" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1564343371" MODIFIED="1610478548663" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="&apos;&#xa2;CD_MOVIMENTACAO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1565398190" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_372988153" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1825829125" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1860040419" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1744547201" MODIFIED="1610478548663" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":ITEMCOMPRACCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_330639503" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1746398480" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1911164825" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1915635819" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1783336259" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1956957174" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_991735607" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_701212127" MODIFIED="1610478548663" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_19698097" MODIFIED="1610478548663" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1780535711" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1768524992" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1793681613" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_840757703" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_138290697" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1017300871" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_868460111" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_292747086" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1125476556" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_218167364" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_628700345" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1871238775" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_874606237" MODIFIED="1610478548663" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1097425896" MODIFIED="1610478548663" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_47022456" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1602718229" MODIFIED="1610478548663" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_615265678" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_149795172" MODIFIED="1610478548663" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_471510315" MODIFIED="1610478548663" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_247238613" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1750471456" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1205481049" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1489475593" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1108181125" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_827719510" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_619134755" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_335379882" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1681705367" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_365362083" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_921063963" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_616430523" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_295295938" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_645425048" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1552865722" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1537361425" MODIFIED="1610478548663" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="AND">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1372650683" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_769488719" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_859698819" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_944475372" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_378408794" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1576059971" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_759286795" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1213963315" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1938095024" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1163136270" MODIFIED="1610478548663" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_413335807" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1536930359" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1143976699" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IS">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NOT">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1122252637" MODIFIED="1610478548663" TEXT="logical_operation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NULL">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_904552089" MODIFIED="1610478548663" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_101072604" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1249416801" MODIFIED="1610478548663" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1972859075" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_745998252" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_324321053" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1621489368" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_ST_ATIVO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1364306765" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1840332017" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_832216903" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_671209856" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1504414344" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_622736669" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1091181511" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_308831026" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_736520537" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_190047492" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_693566866" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1001413211" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1804784843" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_851819448" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="PACK_COMPRAS">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1560645433" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1758715250" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="VALIDA_RESTRICAOMOV">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_13208073" MODIFIED="1610478548663" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1539906439" MODIFIED="1610478548663" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_998054107" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_229073939" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_39700341" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1232029679" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_506623022" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_92590940" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_835530227" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1879700276" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1177263255" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1524454430" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1281897472" MODIFIED="1610478548663" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_25034829" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1151263422" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1241093844" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_222926615" MODIFIED="1610478548663" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1343574750" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_185542672" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_564542542" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1297439538" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_934416645" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_340666231" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1443241657" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1409351942" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1659990203" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1755817016" MODIFIED="1610478548663" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1800422725" MODIFIED="1610478548663" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1655232543" MODIFIED="1610478548663" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_479404660" MODIFIED="1610478548663" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1568617218" MODIFIED="1610478548663" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1103176739" MODIFIED="1610478548663" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1900588839" MODIFIED="1610478548663" TEXT="if_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1439859959" MODIFIED="1610478548663" TEXT="condition">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_286863374" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_432378210" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_974774116" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1101818514" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1967401344" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_743964913" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_307041211" MODIFIED="1610478548663" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1178043772" MODIFIED="1610478548663" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1764687157" MODIFIED="1610478548663" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1228826026" MODIFIED="1610478548663" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_175424951" MODIFIED="1610478548663" TEXT="standard_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_418505963" MODIFIED="1610478548663" TEXT="string_function">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="NVL">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" MODIFIED="1610478548663" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1778237668" MODIFIED="1610478548663" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_1090132221" MODIFIED="1610478548663" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_526609449" MODIFIED="1610478548663" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_286918103" MODIFIED="1610478548663" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548663" FOLDED="true" ID="ID_518330148" MODIFIED="1610478548663" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1089939198" MODIFIED="1610478548664" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_165183652" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_924355273" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1175163106" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_528227882" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_340922452" MODIFIED="1610478548664" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1029938678" MODIFIED="1610478548664" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_383347838" MODIFIED="1610478548664" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1927019703" MODIFIED="1610478548664" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="V_ST_ATIVO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1660926887" MODIFIED="1610478548664" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_858629331" MODIFIED="1610478548664" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1840487831" MODIFIED="1610478548664" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1471873409" MODIFIED="1610478548664" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1932012144" MODIFIED="1610478548664" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_262102034" MODIFIED="1610478548664" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_691533240" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1512876932" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1150204136" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_840219075" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_390084873" MODIFIED="1610478548664" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1169257790" MODIFIED="1610478548664" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="&apos;N&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1916993754" MODIFIED="1610478548664" TEXT="relational_operator">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="=">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_913887977" MODIFIED="1610478548664" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_881890844" MODIFIED="1610478548664" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_406169546" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_246766695" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1203276548" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_550198403" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1628924340" MODIFIED="1610478548664" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1921293536" MODIFIED="1610478548664" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="&apos;S&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="THEN">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1959238265" MODIFIED="1610478548664" TEXT="seq_of_statements">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_413854588" MODIFIED="1610478548664" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_60540575" MODIFIED="1610478548664" TEXT="assignment_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_839205743" MODIFIED="1610478548664" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1514588051" MODIFIED="1610478548664" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_115527550" MODIFIED="1610478548664" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_911256661" MODIFIED="1610478548664" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="O_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=":=">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_56117300" MODIFIED="1610478548664" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1925720500" MODIFIED="1610478548664" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1867080353" MODIFIED="1610478548664" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1813677238" MODIFIED="1610478548664" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1959189395" MODIFIED="1610478548664" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1965246285" MODIFIED="1610478548664" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1838689199" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1133031824" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_432984596" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1411333063" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_831799229" MODIFIED="1610478548664" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_685352172" MODIFIED="1610478548664" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1515586658" MODIFIED="1610478548664" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_982188836" MODIFIED="1610478548664" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="PACK_MENSAGEM">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_535931814" MODIFIED="1610478548664" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_361881635" MODIFIED="1610478548664" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="MENS_PADRAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1620893085" MODIFIED="1610478548664" TEXT="function_argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="(">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_252504133" MODIFIED="1610478548664" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1078692459" MODIFIED="1610478548664" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1043688317" MODIFIED="1610478548664" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_197061914" MODIFIED="1610478548664" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1064284607" MODIFIED="1610478548664" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1611975637" MODIFIED="1610478548664" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_519185512" MODIFIED="1610478548664" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1475246626" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1349574994" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_197309082" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1528009367" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1796923430" MODIFIED="1610478548664" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1452405325" MODIFIED="1610478548664" TEXT="numeric">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="31068">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=",">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_884956577" MODIFIED="1610478548664" TEXT="argument">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1481229207" MODIFIED="1610478548664" TEXT="expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1738977229" MODIFIED="1610478548664" TEXT="logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_560999353" MODIFIED="1610478548664" TEXT="unary_logical_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1887431913" MODIFIED="1610478548664" TEXT="multiset_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1713166288" MODIFIED="1610478548664" TEXT="relational_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1227506575" MODIFIED="1610478548664" TEXT="compound_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1371849930" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_9842032" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1798574439" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1605698555" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_187143738" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1276412435" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1860203025" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1331306049" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1038488742" MODIFIED="1610478548664" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_689692425" MODIFIED="1610478548664" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="&apos;&#xa2;CD_MOVIMENTACAO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1821002525" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1858144741" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1721833970" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1794563612" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_178176903" MODIFIED="1610478548664" TEXT="bind_variable">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=":ITEMCOMPRA">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=".">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1817664097" MODIFIED="1610478548664" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_769193392" MODIFIED="1610478548664" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_564047213" MODIFIED="1610478548664" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="CD_MOVIMENTACAO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_112612700" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_109876178" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1201564515" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_886610078" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_866699494" MODIFIED="1610478548664" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_431397794" MODIFIED="1610478548664" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="&apos;&#xa2;CD_CENTROCUSTO=&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_677306366" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_972565563" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1224111054" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1680106206" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1826463668" MODIFIED="1610478548664" TEXT="general_element">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1267333698" MODIFIED="1610478548664" TEXT="general_element_part">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1969069319" MODIFIED="1610478548664" TEXT="id_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_51805340" MODIFIED="1610478548664" TEXT="regular_id">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="V_CD_CENTROCUSTO">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="|">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1032229962" MODIFIED="1610478548664" TEXT="concatenation">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1696183060" MODIFIED="1610478548664" TEXT="model_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_903543860" MODIFIED="1610478548664" TEXT="unary_expression">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_732888886" MODIFIED="1610478548664" TEXT="atom">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_201314429" MODIFIED="1610478548664" TEXT="constant">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1496691418" MODIFIED="1610478548664" TEXT="quoted_string">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="&apos;&#xa2;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=")">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_1202956820" MODIFIED="1610478548664" TEXT="statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" FOLDED="true" ID="ID_278296309" MODIFIED="1610478548664" TEXT="return_statement">
+<icon BUILTIN="element"/>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="RETURN">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="IF">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="END">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT=";">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+<node CREATED="1610478548664" MODIFIED="1610478548664" TEXT="&lt;EOF&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</map>

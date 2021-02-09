@@ -5585,12 +5585,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_LOCALARMAZENAGEM">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -5677,12 +5671,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ARMAZEMUSUARIO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_ARMAZEMUSUARIO">
 <icon BUILTIN="tag_green"/>
@@ -5779,12 +5767,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_DEPCOMPRAAUTO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -5827,12 +5809,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ETAPAMONI">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -5870,12 +5846,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_PROJETOMONI">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_PROJETOMONI">
 <icon BUILTIN="tag_green"/>
@@ -5945,12 +5915,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_EMPRESA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -5993,12 +5957,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_EMPRESANEGOCIO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6036,12 +5994,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_NEGOCIO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_NEGOCIO">
 <icon BUILTIN="tag_green"/>
@@ -6089,12 +6041,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_SOLICAUTORIZ_DEPTO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6132,12 +6078,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_NEGOCIORATEIO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_NEGOCIORATEIO">
 <icon BUILTIN="tag_green"/>
@@ -6185,12 +6125,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_PARMOVIMENTNEGOCIO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6228,12 +6162,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_TIPOCOMPRA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_TIPOCOMPRA">
 <icon BUILTIN="tag_green"/>
@@ -6281,12 +6209,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_MOVIMENTACAO1">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6329,12 +6251,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_MOVIMENTACAO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6372,12 +6288,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ITEMCOMPRA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_ITEMCOMPRA">
 <icon BUILTIN="tag_green"/>
@@ -6458,12 +6368,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_GRUPOCC">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6506,12 +6410,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="PROFILE">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6537,12 +6435,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_EMPRESA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_EMPRESA">
 <icon BUILTIN="tag_green"/>
@@ -6590,12 +6482,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_EMPRESA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6633,12 +6519,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_COMPRAS">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_COMPRAS">
 <icon BUILTIN="tag_green"/>
@@ -6751,12 +6631,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ITEM">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6821,12 +6695,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_SOLICAUTORIZ">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6864,12 +6732,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_AUTORIZADOR">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_AUTORIZADOR">
 <icon BUILTIN="tag_green"/>
@@ -6917,12 +6779,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_PARMOVIMENT">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -6960,12 +6816,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_PARMOVIMENTVERSAO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_PARMOVIMENTVERSAO">
 <icon BUILTIN="tag_green"/>
@@ -7013,12 +6863,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_CENTROCUSTO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -7056,12 +6900,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_CENTROCUSTOUSUARIO">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_CENTROCUSTOUSUARIO">
 <icon BUILTIN="tag_green"/>
@@ -7109,12 +6947,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_DEPARTAMENTOCOMPRA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -7152,12 +6984,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_LOTECOMPRA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_LOTECOMPRA">
 <icon BUILTIN="tag_green"/>
@@ -7248,12 +7074,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_CONTAORC">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -7318,12 +7138,6 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node TEXT="Consulta">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ITEMPARMOV">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
 </node>
 <node TEXT="atributos">
 <icon BUILTIN="Descriptor.grouping"/>
@@ -7361,12 +7175,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ANOSAFRA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_ANOSAFRA">
 <icon BUILTIN="tag_green"/>
@@ -7453,12 +7261,6 @@
 </node>
 </node>
 <node TEXT="RecordGroupName">
-<icon BUILTIN="element"/>
-<node TEXT="LOV_ITEMPRECOMPRA">
-<icon BUILTIN="tag_green"/>
-</node>
-</node>
-<node TEXT="Consulta">
 <icon BUILTIN="element"/>
 <node TEXT="LOV_ITEMPRECOMPRA">
 <icon BUILTIN="tag_green"/>

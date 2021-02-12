@@ -10,7 +10,7 @@
 <node CREATED="1588682258177" MODIFIED="1612525281689" TEXT="generators">
 <font BOLD="true" NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
-<node CREATED="1588682268929" FOLDED="true" MODIFIED="1588958417859" STYLE="fork" TEXT="JS">
+<node CREATED="1588682268929" MODIFIED="1588958417859" STYLE="fork" TEXT="JS">
 <font NAME="Courier New" SIZE="16"/>
 <icon BUILTIN="element"/>
 <node CREATED="1588682320215" MODIFIED="1612525269190" TEXT="domainModel">
@@ -459,9 +459,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1589286045902" FOLDED="true" MODIFIED="1589286049758" TEXT="struct">
+<node CREATED="1589286045902" MODIFIED="1589286049758" TEXT="struct">
 <icon BUILTIN="element"/>
-<node CREATED="1565217623661" MODIFIED="1612525269193" TEXT="class">
+<node CREATED="1565217623661" FOLDED="true" MODIFIED="1612525269193" TEXT="class">
 <icon BUILTIN="element"/>
 <node CREATED="1559604105984" MODIFIED="1612525269190" TEXT="parameters">
 <font BOLD="true" NAME="Courier New" SIZE="14"/>
@@ -788,7 +788,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1604789915672" MODIFIED="1612525557660" TEXT="start">
+<node CREATED="1604789915672" FOLDED="true" MODIFIED="1612525557660" TEXT="start">
 <icon BUILTIN="element"/>
 <node CREATED="1604789918959" MODIFIED="1612525269194" TEXT="match">
 <icon BUILTIN="element"/>
@@ -829,7 +829,7 @@
 </node>
 <node CREATED="1604789993582" MODIFIED="1612525269203" TEXT="patterns">
 <icon BUILTIN="element"/>
-<node CREATED="1604789996518" FOLDED="true" MODIFIED="1612525269195" TEXT="start-map">
+<node CREATED="1604789996518" MODIFIED="1612525269195" TEXT="start-map">
 <icon BUILTIN="element"/>
 <node CREATED="1604790024498" MODIFIED="1604790148451" TEXT="&lt;map version=&quot;1.0.1&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1847,7 +1847,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605364800560" MODIFIED="1612990943201" TEXT="titleSection">
+<node CREATED="1605364800560" FOLDED="true" MODIFIED="1612990943201" TEXT="titleSection">
 <icon BUILTIN="element"/>
 <node CREATED="1605364813374" MODIFIED="1612990955842" TEXT="&lt;node TEXT=&quot;title&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1867,15 +1867,87 @@
 <node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
+<node CREATED="1605364813374" MODIFIED="1613141099146" TEXT="&lt;node TEXT=&quot;x&quot;&gt;">
+<icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1612983580465" MODIFIED="1613043887872" TEXT="startItemFrame">
-<icon BUILTIN="element"/>
-<node CREATED="1604790648071" MODIFIED="1613044035287" TEXT="&lt;node   TEXT=&quot;{{../@Name}}.{{@Name}}&quot;&gt;">
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613141105319" TEXT="&lt;node TEXT=&quot;{{ @XPosition }}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613141172296" TEXT="&lt;node TEXT=&quot;y&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613141122024" TEXT="&lt;node TEXT=&quot;{{ @YPosition }}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613044424207" TEXT="&lt;node TEXT=&quot;W&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613044435199" TEXT="&lt;node TEXT=&quot;{{ @Width}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613150102659" TEXT="&lt;node TEXT=&quot;H&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613044512363" TEXT="&lt;node TEXT=&quot;{{ @Height}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
 <node CREATED="1612983580465" MODIFIED="1613043887872" TEXT="startItemFrame">
 <icon BUILTIN="element"/>
+<node CREATED="1604790648071" MODIFIED="1613150438682" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot;{{../@Name}}.{{@Name}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1604790648071" MODIFIED="1613155024972" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot;@&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
 <node CREATED="1605364813374" MODIFIED="1613044148580" TEXT="&lt;node TEXT=&quot;X&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
@@ -1930,7 +2002,7 @@
 <node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813374" MODIFIED="1613044424207" TEXT="&lt;node TEXT=&quot;W&quot;&gt;">
+<node CREATED="1605364813374" MODIFIED="1613150102659" TEXT="&lt;node TEXT=&quot;H&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
@@ -1978,10 +2050,10 @@
 <node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813374" MODIFIED="1613044705063" TEXT="&lt;node TEXT=&quot;atributoVisual&quot;&gt;">
@@ -2068,14 +2140,119 @@
 <node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1613066215554" MODIFIED="1613066223450" TEXT="mascara">
+<node CREATED="1613152226435" MODIFIED="1613152239016" TEXT="itemTextoFrame">
+<icon BUILTIN="element"/>
+<node CREATED="1604790648071" MODIFIED="1613154720386" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot;{{*:CompoundText[1]/*:TextSegment[1]/@Text}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1604790648071" MODIFIED="1613155024972" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot;@&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613044148580" TEXT="&lt;node TEXT=&quot;X&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613044164824" TEXT="&lt;node TEXT=&quot;{{ @XPosition}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613044365255" TEXT="&lt;node TEXT=&quot;Y&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613044368865" TEXT="&lt;node TEXT=&quot;{{ @YPosition}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613044424207" TEXT="&lt;node TEXT=&quot;W&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613044435199" TEXT="&lt;node TEXT=&quot;{{ @Width}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613150102659" TEXT="&lt;node TEXT=&quot;H&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613044512363" TEXT="&lt;node TEXT=&quot;{{ @Height}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1613044858745" TEXT="&lt;node TEXT=&quot;tipoItem&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613155203932" TEXT="&lt;node TEXT=&quot;Label&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1613066215554" FOLDED="true" MODIFIED="1613066223450" TEXT="mascara">
 <icon BUILTIN="element"/>
 <node CREATED="1605364813374" MODIFIED="1613063386629" TEXT="&lt;node TEXT=&quot;mascara&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -2096,7 +2273,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1613066215554" MODIFIED="1613068236655" TEXT="formula">
+<node CREATED="1613066215554" FOLDED="true" MODIFIED="1613068236655" TEXT="formula">
 <icon BUILTIN="element"/>
 <node CREATED="1605364813374" MODIFIED="1613068242712" TEXT="&lt;node TEXT=&quot;formula&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -2110,10 +2287,10 @@
 <node CREATED="1605364813375" MODIFIED="1613068258988" TEXT="&lt;node TEXT=&quot;{{@Formula}}&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -2428,15 +2605,15 @@
 </node>
 </node>
 </node>
-<node CREATED="1605359321736" FOLDED="true" MODIFIED="1612525269209" TEXT="template">
+<node CREATED="1605359321736" MODIFIED="1612525269209" TEXT="template">
 <icon BUILTIN="element"/>
-<node CREATED="1605359324729" FOLDED="true" MODIFIED="1612525269208" TEXT="match">
+<node CREATED="1605359324729" MODIFIED="1612525269208" TEXT="match">
 <icon BUILTIN="element"/>
 <node CREATED="1605359331425" MODIFIED="1605359339313" TEXT="*:Block">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605359363248" FOLDED="true" MODIFIED="1612525269208" TEXT="body">
+<node CREATED="1605359363248" MODIFIED="1612525269208" TEXT="body">
 <icon BUILTIN="element"/>
 <node CREATED="1605359383991" FOLDED="true" MODIFIED="1612525269208" TEXT="write-pattern">
 <icon BUILTIN="element"/>
@@ -2480,16 +2657,16 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1604791845968" FOLDED="true" MODIFIED="1612525269208" TEXT="apply-templates">
+<node CREATED="1604791845968" MODIFIED="1612525269208" TEXT="apply-templates">
 <icon BUILTIN="element"/>
-<node CREATED="1604791854168" FOLDED="true" MODIFIED="1612525269208" TEXT="select">
+<node CREATED="1604791854168" MODIFIED="1612525269208" TEXT="select">
 <icon BUILTIN="element"/>
 <node CREATED="1604791861745" MODIFIED="1605359646774" TEXT="*:Item">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
 </node>
-<node CREATED="1605359528638" FOLDED="true" MODIFIED="1612525269208" TEXT="write-pattern">
+<node CREATED="1605359528638" MODIFIED="1612525269208" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1605359533004" MODIFIED="1612966660389" TEXT="end-2node">
 <icon BUILTIN="tag_green"/>
@@ -2683,7 +2860,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605363422835" FOLDED="true" MODIFIED="1612525269213" TEXT="template">
+<node CREATED="1605363422835" MODIFIED="1612525269213" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1605363428851" MODIFIED="1612525269212" TEXT="match">
 <icon BUILTIN="element"/>
@@ -2752,15 +2929,15 @@
 </node>
 </node>
 </node>
-<node CREATED="1612882390453" FOLDED="true" MODIFIED="1612882398511" TEXT="template">
+<node CREATED="1612882390453" MODIFIED="1612882398511" TEXT="template">
 <icon BUILTIN="element"/>
-<node CREATED="1605364025564" FOLDED="true" MODIFIED="1612525269213" TEXT="match">
+<node CREATED="1605364025564" MODIFIED="1612525269213" TEXT="match">
 <icon BUILTIN="element"/>
 <node CREATED="1604791861745" MODIFIED="1612955975267" TEXT="*:RecordGroup">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1612882681309" FOLDED="true" MODIFIED="1612882689001" TEXT="body">
+<node CREATED="1612882681309" MODIFIED="1612882689001" TEXT="body">
 <icon BUILTIN="element"/>
 <node CREATED="1612881696734" FOLDED="true" MODIFIED="1612881719121" TEXT="write-pattern">
 <icon BUILTIN="element"/>
@@ -2775,7 +2952,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1604791845968" FOLDED="true" MODIFIED="1612525269212" TEXT="apply-templates">
+<node CREATED="1604791845968" MODIFIED="1612525269212" TEXT="apply-templates">
 <icon BUILTIN="element"/>
 <node CREATED="1604791854168" FOLDED="true" MODIFIED="1612525269212" TEXT="select">
 <icon BUILTIN="element"/>
@@ -2798,17 +2975,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1605364017956" FOLDED="true" MODIFIED="1612525269214" TEXT="template">
+<node CREATED="1605364017956" MODIFIED="1612525269214" TEXT="template">
 <icon BUILTIN="element"/>
-<node CREATED="1605364025564" FOLDED="true" MODIFIED="1612525269213" TEXT="match">
+<node CREATED="1605364025564" MODIFIED="1612525269213" TEXT="match">
 <icon BUILTIN="element"/>
 <node CREATED="1604791861745" MODIFIED="1612963228284" TEXT="*:RecordGroupColumn">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605364030644" FOLDED="true" MODIFIED="1612525269214" TEXT="body">
+<node CREATED="1605364030644" MODIFIED="1612525269214" TEXT="body">
 <icon BUILTIN="element"/>
-<node CREATED="1605359748756" FOLDED="true" MODIFIED="1612525269213" TEXT="vars">
+<node CREATED="1605359748756" MODIFIED="1612525269213" TEXT="vars">
 <icon BUILTIN="element"/>
 <node CREATED="1605359751981" FOLDED="true" MODIFIED="1612525269213" TEXT="var">
 <icon BUILTIN="element"/>
@@ -2835,7 +3012,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605364522312" FOLDED="true" MODIFIED="1612525269213" TEXT="write-pattern">
+<node CREATED="1605364522312" MODIFIED="1612525269213" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1605364527256" MODIFIED="1612963641371" TEXT="groupRecordAttributeDeclaration">
 <icon BUILTIN="tag_green"/>
@@ -2851,7 +3028,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605364030644" FOLDED="true" MODIFIED="1612525269214" TEXT="body">
+<node CREATED="1605364030644" MODIFIED="1612525269214" TEXT="body">
 <icon BUILTIN="element"/>
 <node CREATED="1605359748756" FOLDED="true" MODIFIED="1612525269213" TEXT="vars">
 <icon BUILTIN="element"/>
@@ -2901,7 +3078,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605364655893" FOLDED="true" MODIFIED="1612525269214" TEXT="if">
+<node CREATED="1605364655893" MODIFIED="1612525269214" TEXT="if">
 <icon BUILTIN="element"/>
 <node CREATED="1605364658469" MODIFIED="1612980452239" TEXT="@ReturnItem">
 <icon BUILTIN="tag_green"/>
@@ -2916,7 +3093,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605364655893" FOLDED="true" MODIFIED="1612525269214" TEXT="if">
+<node CREATED="1605364655893" MODIFIED="1612525269214" TEXT="if">
 <icon BUILTIN="element"/>
 <node CREATED="1605364658469" MODIFIED="1612980568335" TEXT="@DisplayWidth">
 <icon BUILTIN="tag_green"/>
@@ -3067,7 +3244,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605361664202" FOLDED="true" MODIFIED="1612525269212" TEXT="template">
+<node CREATED="1605361664202" MODIFIED="1612525269212" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1605361667202" MODIFIED="1612525269210" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3154,7 +3331,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605361664202" FOLDED="true" MODIFIED="1612525269212" TEXT="template">
+<node CREATED="1605361664202" MODIFIED="1612525269212" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1605361667202" MODIFIED="1612525269210" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3201,7 +3378,8 @@
 <icon BUILTIN="element"/>
 <node CREATED="1612881623509" MODIFIED="1612881633343" TEXT="select">
 <icon BUILTIN="element"/>
-<node CREATED="1612881635238" MODIFIED="1613043211581" TEXT="../../*:Block/*:Item[@CanvasName = current()/../@Name]">
+<node CREATED="1612881635238" MODIFIED="1613149911014" TEXT="../../*:Block/*:Item[ @CanvasName = current()/../@Name&#xa; and  number(@YPosition) &gt;= number(current()/@YPosition) &#xa;and  number(@YPosition)  &lt;= (number(current()/@YPosition)  + number(current()/@Height) )&#xa; and number(@XPosition) &gt;= number(current()/@XPosition) &#xa;and  number(@XPosition)  &lt;= (number(current()/@XPosition)  + number(current()/@Width) )]">
+<font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -3212,6 +3390,21 @@
 </node>
 </node>
 </node>
+<node CREATED="1613151947660" MODIFIED="1613151958257" TEXT="apply-templates">
+<icon BUILTIN="element"/>
+<node CREATED="1613151983779" MODIFIED="1613151991417" TEXT="select ">
+<icon BUILTIN="element"/>
+<node CREATED="1613151994851" MODIFIED="1613154806243" TEXT="../*:Graphics[@GraphicsType = &apos;Texto&apos;   and  number(@YPosition) &gt;= number(current()/@YPosition)  and  number(@YPosition)  &lt;= (number(current()/@YPosition)  + number(current()/@Height) )  and number(@XPosition) &gt;= number(current()/@XPosition)  and  number(@XPosition)  &lt;= (number(current()/@XPosition)  + number(current()/@Width) )]">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1612984576297" MODIFIED="1612984581492" TEXT="mode">
+<icon BUILTIN="element"/>
+<node CREATED="1612986036047" MODIFIED="1613152162103" TEXT="declaraTexto">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
 <node CREATED="1605361703617" MODIFIED="1612525269210" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1605361709392" MODIFIED="1613043461520" TEXT="end-node">
@@ -3227,7 +3420,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1604794527429" MODIFIED="1612525269215" TEXT="mode">
+<node CREATED="1604794527429" FOLDED="true" MODIFIED="1612525269215" TEXT="mode">
 <icon BUILTIN="element"/>
 <node CREATED="1604794529732" MODIFIED="1604794533805" TEXT="plsql">
 <icon BUILTIN="tag_green"/>
@@ -3259,7 +3452,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1604794545083" FOLDED="true" MODIFIED="1612525269215" TEXT="template">
+<node CREATED="1604794545083" MODIFIED="1612525269215" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1604794551867" MODIFIED="1612525269215" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3278,7 +3471,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1612985159594" MODIFIED="1612985164356" TEXT="mode">
+<node CREATED="1612985159594" FOLDED="true" MODIFIED="1612985164356" TEXT="mode">
 <icon BUILTIN="element"/>
 <node CREATED="1612985167017" MODIFIED="1612985537926" TEXT="declaraWindowName">
 <icon BUILTIN="tag_green"/>
@@ -3336,6 +3529,36 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1613066247313" MODIFIED="1613066274433" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1613066289633" MODIFIED="1613066836538" TEXT="end-node">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1612985159594" MODIFIED="1612985164356" TEXT="mode">
+<icon BUILTIN="element"/>
+<node CREATED="1612985167017" MODIFIED="1613152179480" TEXT="declaraTexto">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1612985215347" MODIFIED="1612985221756" TEXT="template">
+<icon BUILTIN="element"/>
+<node CREATED="1612985223867" MODIFIED="1612985973276" TEXT="match">
+<icon BUILTIN="element"/>
+<node CREATED="1612985237091" MODIFIED="1613152186798" TEXT="*:Graphics">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1604794592819" MODIFIED="1612525269215" TEXT="body">
+<icon BUILTIN="element"/>
+<node CREATED="1604794601266" MODIFIED="1612525269215" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1604794651809" MODIFIED="1613152246055" TEXT="itemTextoFrame">
+<icon BUILTIN="tag_green"/>
 </node>
 </node>
 <node CREATED="1613066247313" MODIFIED="1613066274433" TEXT="write-pattern">

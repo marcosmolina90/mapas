@@ -859,7 +859,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1612809320032" FOLDED="true" MODIFIED="1612809460819" TEXT="start-formDeclaration">
+<node CREATED="1612809320032" MODIFIED="1612809460819" TEXT="start-formDeclaration">
 <icon BUILTIN="element"/>
 <node CREATED="1604790648072" MODIFIED="1612889259172" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot;m&#xe9;todos&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -940,7 +940,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605365533763" MODIFIED="1612525269199" TEXT="plsql-text">
+<node CREATED="1605365533763" FOLDED="true" MODIFIED="1612525269199" TEXT="plsql-text">
 <icon BUILTIN="element"/>
 <node CREATED="1605365586322" MODIFIED="1613409183619" TEXT="&lt;node TEXT=&quot;{{ mi:if-else(contains($plsqlSemTab, &apos;BEGIN&apos;), $plsqlSemTab, &apos;DECLARE BEGIN &apos;||$plsqlSemTab||&apos; END;&apos; ) }}&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1147,7 +1147,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605363346997" FOLDED="true" MODIFIED="1612525269202" TEXT="start-lovsGroup">
+<node CREATED="1605363346997" MODIFIED="1612525269202" TEXT="start-lovsGroup">
 <icon BUILTIN="element"/>
 <node CREATED="1605363370161" MODIFIED="1612888947412" TEXT="&lt;node FOLDED=&quot;true&quot; TEXT=&quot;list of values&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1156,7 +1156,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605363861897" FOLDED="true" MODIFIED="1612525269202" TEXT="start-lovDeclaration">
+<node CREATED="1605363861897" MODIFIED="1612525269202" TEXT="start-lovDeclaration">
 <icon BUILTIN="element"/>
 <node CREATED="1605363881564" MODIFIED="1605363938272" TEXT="&lt;node TEXT=&quot;{{ @Name }}&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1183,7 +1183,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605364575463" FOLDED="true" MODIFIED="1612968029148" TEXT="start-lovAttributeDeclaration">
+<node CREATED="1605364575463" MODIFIED="1612968029148" TEXT="start-lovAttributeDeclaration">
 <icon BUILTIN="element"/>
 <node CREATED="1605364595380" MODIFIED="1605831534662" TEXT="&lt;node FOLDED=&quot;true&quot; TEXT=&quot;{{ @Name }}: {{ $dataType }}({{ @DisplayWidth }})&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1389,7 +1389,7 @@
 <node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813375" MODIFIED="1613414666537" TEXT="&lt;node TEXT=&quot;BEGIN {{ @RecordGroupQuery}}; END;&quot;&gt;">
+<node CREATED="1605364813375" MODIFIED="1613417994034" TEXT="&lt;node TEXT=&quot;{{ @RecordGroupQuery}}&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
@@ -1585,6 +1585,12 @@
 <node CREATED="1604790648071" MODIFIED="1612983655763" TEXT="&lt;icon BUILTIN=&quot;Descriptor.window.editor&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
+<node CREATED="1604790648071" MODIFIED="1613416148570" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot; layout&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1604790648071" MODIFIED="1613416503507" TEXT="&lt;icon BUILTIN=&quot;Descriptor.grouping&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
 <node CREATED="1604790648071" MODIFIED="1612983885276" TEXT="&lt;node FOLDED=&quot;true&quot;  TEXT=&quot; groups&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
@@ -1724,7 +1730,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605362085504" MODIFIED="1612990748192" TEXT="start-section">
+<node CREATED="1605362085504" FOLDED="true" MODIFIED="1612990748192" TEXT="start-section">
 <icon BUILTIN="element"/>
 <node CREATED="1605362093087" MODIFIED="1612990758232" TEXT="&lt;node FOLDED=&quot;true&quot; TEXT=&quot;section&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -2444,6 +2450,12 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+<node CREATED="1605362085504" MODIFIED="1613415939130" TEXT="startRows">
+<icon BUILTIN="element"/>
+<node CREATED="1605362093087" MODIFIED="1613415949858" TEXT="&lt;node FOLDED=&quot;true&quot; TEXT=&quot;rows&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
 </node>
 <node CREATED="1604790486231" MODIFIED="1612525269215" TEXT="templates">
 <icon BUILTIN="element"/>
@@ -2452,7 +2464,7 @@
 <node CREATED="1604790492198" MODIFIED="1604790495960" TEXT="formsModule">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1604790496391" FOLDED="true" MODIFIED="1612525269205" TEXT="template">
+<node CREATED="1604790496391" MODIFIED="1612525269205" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1604790500070" MODIFIED="1612525269203" TEXT="match">
 <icon BUILTIN="element"/>
@@ -2586,6 +2598,12 @@
 <node CREATED="1604791861745" MODIFIED="1612983974084" TEXT="*:Canvas">
 <icon BUILTIN="tag_green"/>
 </node>
+</node>
+</node>
+<node CREATED="1605363332774" MODIFIED="1612525269204" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1604791810049" MODIFIED="1613416405897" TEXT="end-node">
+<icon BUILTIN="tag_green"/>
 </node>
 </node>
 <node CREATED="1605363332774" MODIFIED="1612525269204" TEXT="write-pattern">
@@ -2842,7 +2860,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605359321736" MODIFIED="1612525269210" TEXT="template">
+<node CREATED="1605359321736" FOLDED="true" MODIFIED="1612525269210" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1605359324729" MODIFIED="1612525269209" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3028,7 +3046,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1613163146166" MODIFIED="1613163151496" TEXT="template">
+<node CREATED="1613163146166" FOLDED="true" MODIFIED="1613163151496" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1613163154647" MODIFIED="1613163160381" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3430,7 +3448,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605361664202" FOLDED="true" MODIFIED="1612525269212" TEXT="template">
+<node CREATED="1605361664202" MODIFIED="1612525269212" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1605361667202" MODIFIED="1612525269210" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3438,7 +3456,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605361680145" FOLDED="true" MODIFIED="1612525269212" TEXT="body">
+<node CREATED="1605361680145" MODIFIED="1612525269212" TEXT="body">
 <icon BUILTIN="element"/>
 <node CREATED="1605361703617" MODIFIED="1612525269210" TEXT="write-pattern">
 <icon BUILTIN="element"/>
@@ -3517,7 +3535,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1605361664202" FOLDED="true" MODIFIED="1612525269212" TEXT="template">
+<node CREATED="1605361664202" MODIFIED="1612525269212" TEXT="template">
 <icon BUILTIN="element"/>
 <node CREATED="1605361667202" MODIFIED="1612525269210" TEXT="match">
 <icon BUILTIN="element"/>
@@ -3539,7 +3557,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605361703617" FOLDED="true" MODIFIED="1612525269210" TEXT="write-pattern">
+<node CREATED="1605361703617" MODIFIED="1612525269210" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1605361709392" MODIFIED="1612990854377" TEXT="name">
 <icon BUILTIN="tag_green"/>
@@ -3558,6 +3576,12 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1605361703617" MODIFIED="1612525269210" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1605361709392" MODIFIED="1613415967625" TEXT="startRows">
+<icon BUILTIN="tag_green"/>
 </node>
 </node>
 <node CREATED="1612881608797" MODIFIED="1612883074851" TEXT="apply-templates">
@@ -3589,6 +3613,12 @@
 <node CREATED="1612986036047" MODIFIED="1613152162103" TEXT="declaraTexto">
 <icon BUILTIN="tag_green"/>
 </node>
+</node>
+</node>
+<node CREATED="1605361703617" MODIFIED="1612525269210" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1605361709392" MODIFIED="1613043461520" TEXT="end-node">
+<icon BUILTIN="tag_green"/>
 </node>
 </node>
 <node CREATED="1605361703617" MODIFIED="1612525269210" TEXT="write-pattern">
@@ -3657,7 +3687,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1612985159594" MODIFIED="1612985164356" TEXT="mode">
+<node CREATED="1612985159594" FOLDED="true" MODIFIED="1612985164356" TEXT="mode">
 <icon BUILTIN="element"/>
 <node CREATED="1612985167017" MODIFIED="1612985537926" TEXT="declaraWindowName">
 <icon BUILTIN="tag_green"/>

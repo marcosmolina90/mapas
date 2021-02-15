@@ -940,9 +940,9 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605365533763" FOLDED="true" MODIFIED="1612525269199" TEXT="plsql-text">
+<node CREATED="1605365533763" MODIFIED="1612525269199" TEXT="plsql-text">
 <icon BUILTIN="element"/>
-<node CREATED="1605365586322" MODIFIED="1605365982145" TEXT="&lt;node TEXT=&quot;{{ $plsqlSemTab }}&quot;&gt;">
+<node CREATED="1605365586322" MODIFIED="1613409183619" TEXT="&lt;node TEXT=&quot;{{ mi:if-else(contains($plsqlSemTab, &apos;BEGIN&apos;), $plsqlSemTab, &apos;DECLARE BEGIN &apos;||$plsqlSemTab||&apos; END;&apos; ) }}&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1604792101180" MODIFIED="1604794866070" TEXT="&lt;/node&gt;">
@@ -1357,7 +1357,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1605364800560" FOLDED="true" MODIFIED="1612955744171" TEXT="groupRecord">
+<node CREATED="1605364800560" MODIFIED="1612955744171" TEXT="groupRecord">
 <icon BUILTIN="element"/>
 <node CREATED="1612956169518" MODIFIED="1612956198120" TEXT="&lt;node TEXT=&quot;RecordGroup&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -1389,7 +1389,7 @@
 <node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813375" MODIFIED="1612955955474" TEXT="&lt;node TEXT=&quot;{{ @RecordGroupQuery}}&quot;&gt;">
+<node CREATED="1605364813375" MODIFIED="1613414666537" TEXT="&lt;node TEXT=&quot;BEGIN {{ @RecordGroupQuery}}; END;&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
@@ -2278,13 +2278,25 @@
 <node CREATED="1605364813375" MODIFIED="1613068476207" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
+<node CREATED="1605364813375" MODIFIED="1613414610317" TEXT="&lt;node TEXT=&quot;FORMULA&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
 <node CREATED="1605364813374" MODIFIED="1613068283570" TEXT="&lt;icon BUILTIN=&quot;Method.private&quot;/&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
-<node CREATED="1605364813375" MODIFIED="1613068258988" TEXT="&lt;node TEXT=&quot;{{@Formula}}&quot;&gt;">
+<node CREATED="1605364813375" MODIFIED="1613414352285" TEXT="&lt;node TEXT=&quot;body&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613414403931" TEXT="&lt;node TEXT=&quot;DECLARE BEGIN {{@Formula}} END;&quot;&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 <node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">

@@ -2360,7 +2360,7 @@
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
-<node CREATED="1613163325255" MODIFIED="1613163346135" TEXT="listItemDetail">
+<node CREATED="1613163325255" FOLDED="true" MODIFIED="1613163346135" TEXT="listItemDetail">
 <icon BUILTIN="element"/>
 <node CREATED="1605364813374" MODIFIED="1613393752782" TEXT="&lt;node TEXT=&quot;item&quot;&gt;">
 <icon BUILTIN="tag_green"/>
@@ -2480,6 +2480,48 @@
 <node CREATED="1605362085504" FOLDED="true" MODIFIED="1613415939130" TEXT="startRows">
 <icon BUILTIN="element"/>
 <node CREATED="1605362093087" MODIFIED="1613415949858" TEXT="&lt;node FOLDED=&quot;true&quot; TEXT=&quot;rows&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1613066215554" FOLDED="true" MODIFIED="1613505643541" TEXT="icone">
+<icon BUILTIN="element"/>
+<node CREATED="1605364813374" MODIFIED="1613505669100" TEXT="&lt;node TEXT=&quot;icone&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613505664688" TEXT="&lt;node TEXT=&quot;{{@IconFilename}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+<node CREATED="1613066215554" MODIFIED="1613506277150" TEXT="label">
+<icon BUILTIN="element"/>
+<node CREATED="1605364813374" MODIFIED="1613506288934" TEXT="&lt;node TEXT=&quot;label&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813374" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;element&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1613506418366" TEXT="&lt;node TEXT=&quot;{{replace(@Label, &apos;&amp;&apos;, &apos;&apos;)}}&quot;&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839143" TEXT="&lt;icon BUILTIN=&quot;tag_green&quot;/&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813375" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1605364813376" MODIFIED="1605364839144" TEXT="&lt;/node&gt;">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
@@ -3784,6 +3826,36 @@
 <node CREATED="1613066247313" MODIFIED="1613066274433" TEXT="write-pattern">
 <icon BUILTIN="element"/>
 <node CREATED="1613066289633" MODIFIED="1613396766089" TEXT="gridBlock">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1613066301153" MODIFIED="1613066304545" TEXT="if">
+<icon BUILTIN="element"/>
+<node CREATED="1613066310425" MODIFIED="1613505827980" TEXT="@IconFilename != &apos;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1613066322480" MODIFIED="1613066332284" TEXT="then">
+<icon BUILTIN="element"/>
+<node CREATED="1613066247313" MODIFIED="1613066274433" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1613066289633" MODIFIED="1613505407461" TEXT="icone">
+<icon BUILTIN="tag_green"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1613066301153" MODIFIED="1613066304545" TEXT="if">
+<icon BUILTIN="element"/>
+<node CREATED="1613066310425" MODIFIED="1613506258862" TEXT="@Label != &apos;&apos;">
+<icon BUILTIN="tag_green"/>
+</node>
+<node CREATED="1613066322480" MODIFIED="1613066332284" TEXT="then">
+<icon BUILTIN="element"/>
+<node CREATED="1613066247313" MODIFIED="1613066274433" TEXT="write-pattern">
+<icon BUILTIN="element"/>
+<node CREATED="1613066289633" MODIFIED="1613506265166" TEXT="label">
 <icon BUILTIN="tag_green"/>
 </node>
 </node>
